@@ -277,7 +277,7 @@
                         <ul class="tmnf_social_icons tranz">
                            <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
                            <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
-                           <li class="tmnf_foursquare"><a href="index.html#"><i class="fab fa-foursquare"></i><span>Foursquare</span></a></li>
+                           <li class="tmnf_facebook"><a href="index.html#"><i class="fab fa-facebook"></i><span>Facebook</span></a></li>
                         </ul>
                      </div>
                   </div>

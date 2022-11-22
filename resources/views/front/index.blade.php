@@ -352,7 +352,7 @@
           <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6049bd5 elementor-hidden-tablet elementor-hidden-mobile" data-id="6049bd5" data-element_type="column">
              <div class="elementor-widget-wrap elementor-element-populated">
                 <div class="elementor-element elementor-element-fff172c elementor-widget elementor-widget-image" data-id="fff172c" data-element_type="widget" data-widget_type="image.default">
-                   <div class="elementor-widget-container"> <img decoding="async" src="wp-content/uploads/elementor/thumbs/image-from-rawpixel-id-3746844-jpeg-plzx43gjzjnwr8nj9actfmuh20t8yc2awsexvk7dao.jpg" title="image-from-rawpixel-id-3746844-jpeg" alt="image-from-rawpixel-id-3746844-jpeg" /></div>
+                   <div class="elementor-widget-container"> <img decoding="async" src="{{asset('geopoint/wp-content/uploads/elementor/thumbs/image-from-rawpixel-id-3746844-jpeg-plzx43gjzjnwr8nj9actfmuh20t8yc2awsexvk7dao.jpg')}}" title="image-from-rawpixel-id-3746844-jpeg" alt="image-from-rawpixel-id-3746844-jpeg" /></div>
                 </div>
                 <div class="elementor-element elementor-element-ce8341f elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-testimonial" data-id="ce8341f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="testimonial.default">
                    <div class="elementor-widget-container">
@@ -360,7 +360,7 @@
                          <div class="elementor-testimonial-content">34 years of successful land surveying and mapping projects in the greater Boise County region.</div>
                          <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
                             <div class="elementor-testimonial-meta-inner">
-                               <div class="elementor-testimonial-image"> <img decoding="async" width="590" height="590" src="wp-content/uploads/2022/03/memb09.jpg" class="attachment-full size-full" alt="" loading="lazy" /></div>
+                               <div class="elementor-testimonial-image"> <img decoding="async" width="590" height="590" src="{{asset('geopoint/wp-content/uploads/2022/03/memb09.jpg')}}" class="attachment-full size-full" alt="" loading="lazy" /></div>
                                <div class="elementor-testimonial-details">
                                   <div class="elementor-testimonial-name">John Dahlio</div>
                                   <div class="elementor-testimonial-job">Founder & CEO</div>
@@ -446,35 +446,35 @@
                       <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-ee56adf" data-id="ee56adf" data-element_type="column">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-78b929f elementor-widget elementor-widget-image" data-id="78b929f" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="52" src="wp-content/uploads/2022/03/logo-1-enginery-inv.png" class="attachment-full size-full" alt="" loading="lazy" /> </a></div>
+                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="52" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-1-enginery-inv.png')}}" class="attachment-full size-full" alt="" loading="lazy" /> </a></div>
                             </div>
                          </div>
                       </div>
                       <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e06e712" data-id="e06e712" data-element_type="column">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-7fb73a8 elementor-widget elementor-widget-image" data-id="7fb73a8" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="86" height="80" src="wp-content/uploads/2022/03/logo-6-dotorg-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
+                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="86" height="80" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-6-dotorg-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
                             </div>
                          </div>
                       </div>
                       <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-9360f78" data-id="9360f78" data-element_type="column">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-2a45d86 elementor-widget elementor-widget-image" data-id="2a45d86" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="145" height="90" src="wp-content/uploads/2022/03/logo-4-wilco-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
+                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="145" height="90" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-4-wilco-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
                             </div>
                          </div>
                       </div>
                       <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-6d1f723" data-id="6d1f723" data-element_type="column">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-adf4292 elementor-widget elementor-widget-image" data-id="adf4292" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="68" src="wp-content/uploads/2022/03/logo-5-cultera-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
+                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="68" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-5-cultera-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
                             </div>
                          </div>
                       </div>
                       <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-77ce029" data-id="77ce029" data-element_type="column">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-0a7f76b elementor-widget elementor-widget-image" data-id="0a7f76b" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="66" src="wp-content/uploads/2022/03/logo-2-visuality-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
+                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="66" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-2-visuality-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
                             </div>
                          </div>
                       </div>
@@ -517,7 +517,9 @@
                                         <div class="tmnf_column tmnf_column_12            	tmnf_titles_are_medium">
                                            <div class="item mag_item mag_item_grid mag_item_overlay tranz post-456 post type-post status-publish format-gallery has-post-thumbnail hentry category-featured category-resources tag-water post_format-post-format-gallery">
                                               <div class="imgwrap">
-                                                 <a href="on-our-side-the-fire-had-done-no-more-than-scorch-the-nearer-trees/index.html"> <img loading="lazy" width="540" height="640" src="wp-content/uploads/2022/03/surveying-3035404_1920-540x640.jpg" class="tmnf_tranz blogger_img wp-post-image" alt="" decoding="async" /> </a>
+                                                 <a href="on-our-side-the-fire-had-done-no-more-than-scorch-the-nearer-trees/index.html">
+                                                    <img loading="lazy" width="540" height="640" src="{{asset('geopoint/wp-content/uploads/2022/03/surveying-3035404_1920-540x640.jpg')}}" class="tmnf_tranz blogger_img wp-post-image" alt="" decoding="async" />
+                                                </a>
                                                  <p class="tmnf_meta tmnf_meta_categs featured_category_color resources_category_color  "> <span class="categs"><a href="category/featured/index.html" rel="category tag">Featured</a> • <a href="category/resources/index.html" rel="category tag">Resources</a></span></p>
                                               </div>
                                               <div class="item_inn">
