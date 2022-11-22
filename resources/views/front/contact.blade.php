@@ -7,41 +7,22 @@
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <link rel="pingback" href="../../xmlrpc.php" />
-      <link media="all" href="../../wp-content/cache/autoptimize/css/autoptimize_461276753cd2c76b20ca549c56a3b9dc.css" rel="stylesheet" />
-      <title>Contact Us &#8211; Geopoint</title>
-      <meta name='robots' content='max-image-preview:large' />
-      <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-      <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
-      <link rel="alternate" type="application/rss+xml" title="Geopoint &raquo; Feed" href="../../feed/index.html" />
-      <link rel="alternate" type="application/rss+xml" title="Geopoint &raquo; Comments Feed" href="../../comments/feed/index.html" />
-      <script type="text/javascript">window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/themestate.com\/demo\/geopoint\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
-         /*! This file is auto-generated */
-         !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
-      </script>
-      <link rel='stylesheet' id='elementor-post-7-css' href='../../wp-content/cache/autoptimize/css/autoptimize_single_4f865a00ffd3d82ce4476d03c33d5dc82e23.css?ver=1668358455' type='text/css' media='all' />
-      <link rel='stylesheet' id='elementor-post-848-css' href='../../wp-content/cache/autoptimize/css/autoptimize_single_586cfbe7c7325a7cd257467d8765e3732d22.css?ver=1668573529' type='text/css' media='all' />
+      <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_461276753cd2c76b20ca549c56a3b9dc.css')}}" rel="stylesheet" />
+      <title>Contact Us | GeoParcel Surveyors Limited</title>
+
+      <link rel='stylesheet' id='elementor-post-7-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_4f865a00ffd3d82ce4476d03c33d5dc82e23.css?ver=1668358455')}}" type='text/css' media='all' />
+      <link rel='stylesheet' id='elementor-post-848-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_586cfbe7c7325a7cd257467d8765e3732d22.css?ver=1668573529')}}" type='text/css' media='all' />
       <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" />
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" media="print" onload="this.media='all'">
       <noscript>
          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" />
       </noscript>
       <link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&amp;display=auto&amp;ver=6.1.1' type='text/css' media='all' />
-      <script type='text/javascript' src='../../wp-includes/js/jquery/jquery.mina7a0.js?ver=3.6.1' id='jquery-core-js'></script>
-      <link rel="https://api.w.org/" href="../../wp-json/index.html" />
-      <link rel="alternate" type="application/json" href="../../wp-json/wp/v2/pages/848.json" />
-      <link rel="EditURI" type="application/rsd+xml" title="RSD" href="../../xmlrpc0db0.php?rsd" />
-      <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="../../wp-includes/wlwmanifest.xml" />
-      <meta name="generator" content="WordPress 6.1.1" />
-      <link rel="canonical" href="index.html" />
-      <link rel='shortlink' href='../../indexab1b.html?p=848' />
-      <link rel="alternate" type="application/json+oembed" href="../../wp-json/oembed/1.0/embed3513.json?url=http%3A%2F%2Fthemestate.com%2Fdemo%2Fgeopoint%2Fpages%2Fcontact-us%2F" />
-      <link rel="alternate" type="text/xml+oembed" href="../../wp-json/oembed/1.0/embede8a1?url=http%3A%2F%2Fthemestate.com%2Fdemo%2Fgeopoint%2Fpages%2Fcontact-us%2F&amp;format=xml" />
-      <meta name="generator" content="Redux 4.3.20" />
-      <link rel="icon" href="../../wp-content/uploads/2022/03/cropped-006-isobars-32x32.png" sizes="32x32" />
-      <link rel="icon" href="../../wp-content/uploads/2022/03/cropped-006-isobars-192x192.png" sizes="192x192" />
-      <link rel="apple-touch-icon" href="../../wp-content/uploads/2022/03/cropped-006-isobars-180x180.png" />
-      <meta name="msapplication-TileImage" content="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/cropped-006-isobars-270x270.png" />
+      <script type='text/javascript' src="{{asset('geopoint/wp-includes/js/jquery/jquery.mina7a0.js')}}" id='jquery-core-js'></script>
+      <link rel="canonical" href="{{url('/')}}" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+
    </head>
    <body class="page-template page-template-template-fullwidth-alt page-template-template-fullwidth-alt-php page page-id-848 page-child parent-pageid-892 wp-embed-responsive wp-featherlight-captions elementor-default elementor-kit-7 elementor-page elementor-page-848">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
@@ -157,70 +138,24 @@
          </defs>
       </svg>
       <div class="wrapper_main tmnf_width_normal header_fullwidth head_default upper image_css_none site_offset_enabled tmnf-sidebar-active tmnf-sidebar-flyoff-fix ">
-         <div id="header" class="tmnf_border tmnf_tranz" itemscope itemtype="http://schema.org/WPHeader">
+        <div id="header" class="tmnf_border tmnf_tranz" itemscope itemtype="http://schema.org/WPHeader">
             <a class="screen-reader-text ribbon skip-link" href="#content_start">Skip to content</a>
             <div class="header_logo_above header_default">
                <div id="topnav" class="tmnf_header_row tmnf_topnav_row">
                   <div class="tmnf_container tmnf_container_head">
                      <div class="tmnf_column tmnf_column_12">
                         <div class="titles_fix"></div>
-                        <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> WordPress Theme for Land Surveying &amp; Mapping Projects</h2>
+                        <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> 3571 Riverside Downs</h2>
                         <ul id="add-nav" class="nav">
-                           <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:000.452.87.9875"><i class="fas fa-phone-square-alt"></i> +452.87.9875</a></li>
-                           <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> hello@geopoint.com</a></li>
+                           <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 723014032"><i class="fas fa-phone-square-alt"></i> +254 723014032</a></li>
+                           <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> hello@geoparcelsurveys.com</a></li>
                         </ul>
                         <div class="clearfix"></div>
                      </div>
                   </div>
                </div>
                <div class="clearfix"></div>
-               <div class="will_stick_wrap">
-                  <div class="tmnf_header_row tmnf_border tmnf_menu_row will_stick">
-                     <div class="tmnf_container tmnf_container_head">
-                        <div class="tmnf_column tmnf_column_12">
-                           <div id="titles" class="tranz2"> <a class="logo logo_img" href="../../index.html"> <img class="tranz this_is_logo" src="../../wp-content/uploads/2022/03/cropped-geopoint-logo.jpg" alt="Geopoint"/> </a></div>
-                           <div class="header-right">
-                              <div class="tmnf_navigation_wrap show-menu-visible">
-                                 <input type="checkbox" id="showmenu" aria-label="Open Menu"> <label for="showmenu" class="show-menu" tabindex="0"><i class="fas fa-bars"></i> <span>Menu</span></label>
-                                 <nav id="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation" aria-label="Main Menu">
-                                    <ul id="main-nav" class="nav" role="menubar">
-                                       <li id="menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4289"><a href="../../index.html">Home</a></li>
-                                       <li id="menu-item-4320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4320"><a href="../../news/index.html">News</a></li>
-                                       <li id="menu-item-4413" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-4413" aria-haspopup="true" role="menuitem" aria-expanded="false" tabindex="0">
-                                          <a href="../index.html">Pages</a>
-                                          <ul class="sub-menu">
-                                             <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="../about-us/index.html">About Us</a></li>
-                                             <li id="menu-item-5259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5259"><a href="../references/index.html">References</a></li>
-                                             <li id="menu-item-4414" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-848 current_page_item menu-item-4414"><a href="index.html">Contact Us</a></li>
-                                             <li id="menu-item-5349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5349"><a href="../frequently-asked-questions/index.html">FAQs</a></li>
-                                             <li id="menu-item-5654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5654"><a href="../our-team/index.html">Our Team</a></li>
-                                             <li id="menu-item-5346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5346"><a href="../../404.html">Error 404</a></li>
-                                             <li id="menu-item-4416" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4416"><a href="../gallery/index.html">Gallery Page</a></li>
-                                          </ul>
-                                       </li>
-                                       <li id="menu-item-4265" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-4265" aria-haspopup="true" role="menuitem" aria-expanded="false" tabindex="0">
-                                          <a href="#">Post Layouts</a>
-                                          <ul class="sub-menu">
-                                             <li id="menu-item-4290" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4290"><a href="../../on-our-side-the-fire-had-done-no-more-than-scorch-the-nearer-trees/index.html">Without Sidebar</a></li>
-                                             <li id="menu-item-4292" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4292"><a href="../../nor-indeed-can-the-whale-possibly-be-otherwise-than-fragrant/index.html">Right Sidebar</a></li>
-                                             <li id="menu-item-4291" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4291"><a href="../../where-flames-had-been-there-were-now-streamers-of-smoke/index.html">Left Sidebar</a></li>
-                                             <li id="menu-item-4367" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4367"><a href="../../your-task-is-to-watch-the-goats/index.html">Post Without Featured Image</a></li>
-                                             <li id="menu-item-4296" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4296"><a href="../../for-the-second-time-that-day-this-girl-proved-her-quality/index.html">Post With Pagination</a></li>
-                                             <li id="menu-item-4293" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4293"><a href="../../some-days-elapsed-and-ice-and-icebergs-all-astern/index.html">Gallery Post</a></li>
-                                             <li id="menu-item-4294" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-4294"><a href="../../how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Video Post</a></li>
-                                          </ul>
-                                       </li>
-                                       <li id="menu-item-5655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5655"><a href="../../projects/index.html">Projects</a></li>
-                                       <li id="menu-item-4266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4266"><a target="_blank" href="http://1.envato.market/jWaNaP">Purchase</a></li>
-                                       <li id="menu-item-4417" class="special menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-848 current_page_item menu-item-4417"><a href="index.html">Order a Survey<span class="menu-item-description tranz">Let’s talk about projects.</span></a></li>
-                                    </ul>
-                                 </nav>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+               @include('front.menu')
             </div>
             <div class="clearfix"></div>
          </div>
@@ -276,7 +211,7 @@
                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-map-marker-alt"></i> </span></div>
                                     <div class="elementor-icon-box-content">
                                        <p class="elementor-icon-box-title"> <span  > Geopoint Inc. </span></p>
-                                       <p class="elementor-icon-box-description"> 670 Garden Drive, Boise, Idaho 83702</p>
+                                       <p class="elementor-icon-box-description"> 63571 Riverside Downs</p>
                                     </div>
                                  </div>
                               </div>
@@ -286,7 +221,7 @@
                                  <div class="elementor-icon-box-wrapper">
                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="far fa-envelope-open"></i> </span></div>
                                     <div class="elementor-icon-box-content">
-                                       <p class="elementor-icon-box-title"> <span  > hello@geopoint.com </span></p>
+                                       <p class="elementor-icon-box-title"> <span  > hello@geoparcelsurveys.com </span></p>
                                        <p class="elementor-icon-box-description"> Don’t hesitate and write us. This is the general email.</p>
                                     </div>
                                  </div>
@@ -297,7 +232,7 @@
                                  <div class="elementor-icon-box-wrapper">
                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-phone-volume"></i> </span></div>
                                     <div class="elementor-icon-box-content">
-                                       <p class="elementor-icon-box-title"> <span  > +452.87.9875 </span></p>
+                                       <p class="elementor-icon-box-title"> <span  > +254 723014032 </span></p>
                                        <p class="elementor-icon-box-description"> We are available for questions and estimates.</p>
                                     </div>
                                  </div>
@@ -354,65 +289,20 @@
                         <div class="elementor-widget-wrap elementor-element-populated">
                            <div class="elementor-element elementor-element-a438b9d elementor-widget elementor-widget-google_maps" data-id="a438b9d" data-element_type="widget" data-widget_type="google_maps.default">
                               <div class="elementor-widget-container">
-                                 <div class="elementor-custom-embed"> <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
-                                    src="https://maps.google.com/maps?q=Residence%20Inn%20Boise%20Downtown%2FCity%20Center&amp;t=m&amp;z=16&amp;output=embed&amp;iwloc=near"
-                                    title="Residence Inn Boise Downtown/City Center"
-                                    aria-label="Residence Inn Boise Downtown/City Center"
-                                    ></iframe></div>
+                                 <div class="elementor-custom-embed">
+                                    <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+                                        src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.277519149899!2d36.8222851!3d-1.2821533!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb39310a139138d6!2sDesignekta%20Studios!5e0!3m2!1sen!2ske!4v1669116632038!5m2!1sen!2ske"
+                                        title="Geoparcel Surveyors Limited"
+                                        aria-label="Geoparcel Surveyors Limited">
+                                    </iframe>
+                                </div>
                               </div>
                            </div>
                         </div>
                      </div>
                   </div>
                </section>
-               <section class="elementor-section elementor-top-section elementor-element elementor-element-5703544e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5703544e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                  <div class="elementor-container elementor-column-gap-wide">
-                     <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4076482a" data-id="4076482a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                        <div class="elementor-widget-wrap elementor-element-populated">
-                           <div class="elementor-background-overlay"></div>
-                           <section class="elementor-section elementor-inner-section elementor-element elementor-element-2a7a0747 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2a7a0747" data-element_type="section">
-                              <div class="elementor-container elementor-column-gap-default">
-                                 <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-4dadbaa0" data-id="4dadbaa0" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                       <div class="elementor-element elementor-element-1f21eb9c elementor-widget elementor-widget-image" data-id="1f21eb9c" data-element_type="widget" data-widget_type="image.default">
-                                          <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="52" src="../../wp-content/uploads/2022/03/logo-1-enginery-inv.png" class="attachment-full size-full" alt="" loading="lazy" /> </a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-1ec6fd08" data-id="1ec6fd08" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                       <div class="elementor-element elementor-element-32f7acd3 elementor-widget elementor-widget-image" data-id="32f7acd3" data-element_type="widget" data-widget_type="image.default">
-                                          <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="86" height="80" src="../../wp-content/uploads/2022/03/logo-6-dotorg-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-549f83a4" data-id="549f83a4" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                       <div class="elementor-element elementor-element-187d14a9 elementor-widget elementor-widget-image" data-id="187d14a9" data-element_type="widget" data-widget_type="image.default">
-                                          <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="145" height="90" src="../../wp-content/uploads/2022/03/logo-4-wilco-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-5d2a724a" data-id="5d2a724a" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                       <div class="elementor-element elementor-element-1c04436 elementor-widget elementor-widget-image" data-id="1c04436" data-element_type="widget" data-widget_type="image.default">
-                                          <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="68" src="../../wp-content/uploads/2022/03/logo-5-cultera-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                                 <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-6d6dd9fc" data-id="6d6dd9fc" data-element_type="column">
-                                    <div class="elementor-widget-wrap elementor-element-populated">
-                                       <div class="elementor-element elementor-element-6c57886 elementor-widget elementor-widget-image" data-id="6c57886" data-element_type="widget" data-widget_type="image.default">
-                                          <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="66" src="../../wp-content/uploads/2022/03/logo-2-visuality-inv.png" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                                       </div>
-                                    </div>
-                                 </div>
-                              </div>
-                           </section>
-                        </div>
-                     </div>
-                  </div>
-               </section>
+
                <section class="elementor-section elementor-top-section elementor-element elementor-element-6c92de53 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c92de53" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                   <div class="elementor-container elementor-column-gap-no">
                      <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ce4b565" data-id="5ce4b565" data-element_type="column">
@@ -592,93 +482,83 @@
                </div>
             </div>
             <div id="footer">
-               <div class="footer_head tmnf_border">
-                  <div class="tmnf_container tmnf_container_vis">
-                     <div class="tmnf_column tmnf_column_vis tmnf_column_12">
-                        <img class="footer_img tranz" src="../../wp-content/uploads/2022/03/geopoint-logo.jpg" alt="Contact Us"/>
-                        <ul id="menu-footer-menu" class="bottom-menu">
-                           <li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4295"><a href="../../index.html">Home</a></li>
-                           <li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="../../news/index.html">News</a></li>
-                           <li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-848 current_page_item menu-item-4432"><a href="index.html" aria-current="page">Contact Us</a></li>
-                           <li id="menu-item-4268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4268"><a target="_blank" rel="noopener" href="http://themnific.com/">Our Other Themes</a></li>
-                           <li id="menu-item-4267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4267"><a target="_blank" rel="noopener" href="http://1.envato.market/jWaNaP">Purchase</a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-               <div class="clearfix"></div>
-               <div class="tmnf_container">
-                  <div class="tmnf_foocol first">
-                     <h4 class="widget tmnf_border small_title">Geopoint Inc.</h4>
-                     <div class="textwidget">
-                        <p>Geopoint Inc. routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.<br /> The highest quality, most accurate &amp; precise land surveying services.</p>
-                     </div>
-                     <form role="search" class="searchform" method="get" action="http://themestate.com/demo/geopoint/"> <label for="search-form-637c695467053"> <span class="screen-reader-text">Search for:</span> </label> <input id="search-form-637c695467053"  type="text" name="s" class="s p-border" size="30" value="Search..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /> <button class='searchSubmit ribbon' ><i class="fas fa-search"></i></button></form>
-                  </div>
-                  <div class="tmnf_foocol sec">
-                     <h4 class="widget tmnf_border small_title">Latest News</h4>
-                     <ul>
-                        <li> <a href="../../for-a-minute-or-two-she-stood-looking-at-the-house/index.html">Basic boundary survey with property corners</a></li>
-                        <li> <a href="../../how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Research of federal and state resources and the public record</a></li>
-                        <li> <a href="../../she-was-also-less-cold-and-cruel-than-most-green-martian-women/index.html">​​State Board of Licensure for Professional Engineers</a></li>
-                     </ul>
-                  </div>
-                  <div class="tmnf_foocol third">
-                     <h4 class="widget tmnf_border small_title">Categories</h4>
-                     <ul>
-                        <li class="cat-item cat-item-12"><a href="../../category/featured/index.html">Featured</a></li>
-                        <li class="cat-item cat-item-14"><a href="../../category/land-survey/index.html">Land Survey</a></li>
-                        <li class="cat-item cat-item-6"><a href="../../category/location-certificates/index.html">Location Certificates</a></li>
-                        <li class="cat-item cat-item-8"><a href="../../category/photos/index.html">Photos</a></li>
-                        <li class="cat-item cat-item-2"><a href="../../category/resources/index.html">Resources</a></li>
-                        <li class="cat-item cat-item-11"><a href="../../category/topographic-mapping/index.html">Topographic Mapping</a></li>
-                     </ul>
-                  </div>
-                  <div class="tmnf_foocol last">
-                     <h4 class="widget tmnf_border small_title">Meta</h4>
-                     <ul>
-                        <li><a href="../../wp-login.html">Log in</a></li>
-                        <li><a href="../../feed/index.html">Entries feed</a></li>
-                        <li><a href="../../comments/feed/index.html">Comments feed</a></li>
-                        <li><a href="https://wordpress.org/">WordPress.org</a></li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="clearfix"></div>
-               <div class="bottom_line tmnf_border">
-                  <div class="tmnf_container">
-                     <div class="tmnf_column tmnf_column_4">
-                        <div class="footer_credits">Copyright © 2022 - Geopoint Theme</div>
-                     </div>
-                     <div class="tmnf_column tmnf_column_8">
-                        <ul class="tmnf_social_icons tranz">
-                           <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="../../index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
-                           <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="../../index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
-                           <li class="tmnf_foursquare"><a href="../../index.html#"><i class="fab fa-foursquare"></i><span>Foursquare</span></a></li>
-                        </ul>
-                     </div>
-                  </div>
-               </div>
-               <div class="clearfix"></div>
-            </div>
-            <div class="site_offset">
-               <ul class="tmnf_social_icons tranz">
-                  <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="../../index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
-                  <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="../../index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
-                  <li class="tmnf_foursquare"><a href="../../index.html#"><i class="fab fa-foursquare"></i><span>Foursquare</span></a></li>
-               </ul>
-               <h6>Professional Land Surveying</h6>
-            </div>
-            <div id="curtain" class="tmnf_tranz">
-               <div class="search_wrap">
-                  <form role="search" class="searchform" method="get" action="http://themestate.com/demo/geopoint/"> <label for="search-form-637c69546923a"> <span class="screen-reader-text">Search for:</span> </label> <input id="search-form-637c69546923a"  type="text" name="s" class="s p-border" size="30" value="Search..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /> <button class='searchSubmit ribbon' ><i class="fas fa-search"></i></button></form>
-               </div>
-               <a class='curtainclose' href="#" ><i class="fa fa-times"></i><span class="screen-reader-text">Close Search Window</span></a>
-            </div>
+                <div class="footer_head tmnf_border">
+                   <div class="tmnf_container tmnf_container_vis">
+                      <div class="tmnf_column tmnf_column_vis tmnf_column_12">
+                         <img class="footer_img tranz" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Home"/>
+                         <ul id="menu-footer-menu" class="bottom-menu">
+                            <li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4295"><a href="index.html" aria-current="page">Home</a></li>
+                            <li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="news/index.html">News</a></li>
+                            <li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4432"><a href="pages/contact-us/index.html">Contact Us</a></li>
+
+                         </ul>
+                      </div>
+                   </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="tmnf_container">
+                   <div class="tmnf_foocol first">
+                      <h4 class="widget tmnf_border small_title">GeoParcel Surveyors.</h4>
+                      <div class="textwidget">
+                         <p>GeoParcel Surveyors. routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.<br /> The highest quality, most accurate &amp; precise land surveying services.</p>
+                      </div>
+                      {{-- <form role="search" class="searchform" method="get" action="http://themestate.com/demo/geopoint/"> <label for="search-form-637c692f17862"> <span class="screen-reader-text">Search for:</span> </label> <input id="search-form-637c692f17862"  type="text" name="s" class="s p-border" size="30" value="Search..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /> <button class='searchSubmit ribbon' ><i class="fas fa-search"></i></button></form> --}}
+                   </div>
+                   <div class="tmnf_foocol sec">
+                      <h4 class="widget tmnf_border small_title">Latest News</h4>
+                      <ul>
+                         <li> <a href="for-a-minute-or-two-she-stood-looking-at-the-house/index.html">Basic boundary survey with property corners</a></li>
+                         <li> <a href="how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Research of federal and state resources and the public record</a></li>
+                         <li> <a href="she-was-also-less-cold-and-cruel-than-most-green-martian-women/index.html">​​State Board of Licensure for Professional Engineers</a></li>
+                      </ul>
+                   </div>
+                   <div class="tmnf_foocol third">
+                      <h4 class="widget tmnf_border small_title">Categories</h4>
+                      <ul>
+                         <li class="cat-item cat-item-12"><a href="category/featured/index.html">Featured</a></li>
+                         <li class="cat-item cat-item-14"><a href="category/land-survey/index.html">Land Survey</a></li>
+                         <li class="cat-item cat-item-6"><a href="category/location-certificates/index.html">Location Certificates</a></li>
+                         <li class="cat-item cat-item-8"><a href="category/photos/index.html">Photos</a></li>
+                         <li class="cat-item cat-item-2"><a href="category/resources/index.html">Resources</a></li>
+                         <li class="cat-item cat-item-11"><a href="category/topographic-mapping/index.html">Topographic Mapping</a></li>
+                      </ul>
+                   </div>
+                   <div class="tmnf_foocol last">
+                      <h4 class="widget tmnf_border small_title">Meta</h4>
+                      <ul>
+                         <li><a href="wp-login.html">Log in</a></li>
+                         <li><a href="feed/index.html">Entries feed</a></li>
+                         <li><a href="comments/feed/index.html">Comments feed</a></li>
+                         <li><a href="https://wordpress.org/">WordPress.org</a></li>
+                      </ul>
+                   </div>
+                </div>
+                <div class="clearfix"></div>
+                <div class="bottom_line tmnf_border">
+                   <div class="tmnf_container">
+                      <div class="tmnf_column tmnf_column_4">
+                         <div class="footer_credits">Copyright © {{date('Y')}} - Geoparcel Surveyors</div>
+                      </div>
+                      <div class="tmnf_column tmnf_column_8">
+                         <ul class="tmnf_social_icons tranz">
+                            <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
+                            <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
+                            <li class="tmnf_facebook"><a href="index.html#"><i class="fab fa-facebook"></i><span>Facebook</span></a></li>
+                         </ul>
+                      </div>
+                   </div>
+                </div>
+                <div class="clearfix"></div>
+             </div>
+
+
             <div class="scroll_to_top ribbon"> <a title="Scroll to top" class="rad" href="#">&uarr;</a></div>
          </div>
       </div>
-      <script type='text/javascript' id='contact-form-7-js-extra'>var wpcf7 = {"api":{"root":"http:\/\/themestate.com\/demo\/geopoint\/wp-json\/","namespace":"contact-form-7\/v1"}};</script> <script type='text/javascript' id='elementor-frontend-js-before'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.8.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/themestate.com\/demo\/geopoint\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":848,"title":"Contact%20Us%20%E2%80%93%20Geopoint","excerpt":"","featuredImage":false}};</script> <script defer src="../../wp-content/cache/autoptimize/js/autoptimize_dbdd76d131d04e56341096a3dbcd05d6.js"></script>
+      {{--  --}}
+      <script type='text/javascript' id='elementor-frontend-js-before'>var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.8.1","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"additional_custom_breakpoints":true,"e_import_export":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true},"urls":{"assets":"http:\/\/themestate.com\/demo\/geopoint\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4079,"title":"Geopoint%20%E2%80%93%20Professional%20Land%20Surveying","excerpt":"","featuredImage":false}};</script>
+      <script defer src="{{asset('geopoint/wp-content/cache/autoptimize/js/autoptimize_5b8e95f27b3e820f1b3d0fcb423675bd.js')}}"></script>
+      {{--  --}}
    </body>
 
 </html>

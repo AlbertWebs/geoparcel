@@ -153,7 +153,7 @@
                   <div class="tmnf_container tmnf_container_head">
                      <div class="tmnf_column tmnf_column_12">
                         <div class="titles_fix"></div>
-                        <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> Tag Line Goes Here</h2>
+                        <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> 3571 Riverside Downs</h2>
                         <ul id="add-nav" class="nav">
                            <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 723014032"><i class="fas fa-phone-square-alt"></i> +254 723014032</a></li>
                            <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> hello@geoparcelsurveys.com</a></li>
@@ -163,37 +163,7 @@
                   </div>
                </div>
                <div class="clearfix"></div>
-               <div class="will_stick_wrap">
-                  <div class="tmnf_header_row tmnf_border tmnf_menu_row will_stick">
-                     <div class="tmnf_container tmnf_container_head">
-                        <div class="tmnf_column tmnf_column_12">
-                           <div id="titles" class="tranz2"> <a class="logo logo_img" href="index.html"> <img class="tranz this_is_logo" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Geopoint"/> </a></div>
-                           <div class="header-right">
-                              <div class="tmnf_navigation_wrap show-menu-visible">
-                                 <input type="checkbox" id="showmenu" aria-label="Open Menu"> <label for="showmenu" class="show-menu" tabindex="0"><i class="fas fa-bars"></i> <span>Menu</span></label>
-                                 <nav id="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation" aria-label="Main Menu">
-                                    <ul id="main-nav" class="nav" role="menubar">
-                                       <li id="menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4289"><a href="{{url('/')}}">Home</a></li>
-                                       <li id="menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 menu-item-4289"><a href="{{url('/')}}/about-us">About Us</a></li>
-
-                                       <li id="menu-item-4413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4413" aria-haspopup="true" role="menuitem" aria-expanded="false" tabindex="0">
-                                          <a href="pages/index.html">Services</a>
-                                          <ul class="sub-menu">
-                                             <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="pages/about-us/index.html">About Us</a></li>
-                                          </ul>
-                                       </li>
-
-                                       {{-- <li id="menu-item-5655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5655"><a href="projects/index.html">Projects</a></li> --}}
-                                       <li id="menu-item-4266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4266"><a target="_blank" href="http://1.envato.market/jWaNaP">Contact Us</a></li>
-                                       <li id="menu-item-4417" class="special menu-item menu-item-type-post_type menu-item-object-page menu-item-4417"><a href="pages/contact-us/index.html">Request a Survey<span class="menu-item-description tranz">Let’s talk about projects.</span></a></li>
-                                    </ul>
-                                 </nav>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+               @include('front.menu')
             </div>
             <div class="clearfix"></div>
          </div>
@@ -223,8 +193,7 @@
                            <li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4295"><a href="index.html" aria-current="page">Home</a></li>
                            <li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="news/index.html">News</a></li>
                            <li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4432"><a href="pages/contact-us/index.html">Contact Us</a></li>
-                           <li id="menu-item-4268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4268"><a target="_blank" rel="noopener" href="http://themnific.com/">Our Other Themes</a></li>
-                           <li id="menu-item-4267" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4267"><a target="_blank" rel="noopener" href="http://1.envato.market/jWaNaP">Purchase</a></li>
+
                         </ul>
                      </div>
                   </div>
@@ -271,7 +240,7 @@
                <div class="bottom_line tmnf_border">
                   <div class="tmnf_container">
                      <div class="tmnf_column tmnf_column_4">
-                        <div class="footer_credits">Copyright © 2022 - Geoparcel Surveyors</div>
+                        <div class="footer_credits">Copyright © {{date('Y')}} - Geoparcel Surveyors</div>
                      </div>
                      <div class="tmnf_column tmnf_column_8">
                         <ul class="tmnf_social_icons tranz">
