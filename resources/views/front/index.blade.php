@@ -76,7 +76,7 @@
                                      <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-map-marker-alt"></i> </span></div>
                                      <div class="elementor-icon-box-content">
                                         <p class="elementor-icon-box-title"> <span  > GeoParcel Surveyors Limited </span></p>
-                                        <p class="elementor-icon-box-description"> 3571 Riverside Downs <br>Gitaru Road, Wangige</p>
+                                        <p class="elementor-icon-box-description"> Upperhill Garden,3rd Ngong Avenue</p>
                                      </div>
                                   </div>
                                </div>

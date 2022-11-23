@@ -145,7 +145,7 @@
                   <div class="tmnf_container tmnf_container_head">
                      <div class="tmnf_column tmnf_column_12">
                         <div class="titles_fix"></div>
-                        <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> 3571 Riverside Downs</h2>
+                        <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> Upperhill Garden,3rd Ngong Avenue</h2>
                         <ul id="add-nav" class="nav">
                            <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 723014032"><i class="fas fa-phone-square-alt"></i> +254 723014032</a></li>
                            <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> hello@geoparcelsurveys.com</a></li>
@@ -210,8 +210,8 @@
                                  <div class="elementor-icon-box-wrapper">
                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-map-marker-alt"></i> </span></div>
                                     <div class="elementor-icon-box-content">
-                                       <p class="elementor-icon-box-title"> <span  > Geopoint Inc. </span></p>
-                                       <p class="elementor-icon-box-description"> 63571 Riverside Downs</p>
+                                       <p class="elementor-icon-box-title"> <span  > GeoParcel Surveyor Limited </span></p>
+                                       <p class="elementor-icon-box-description"> Upperhill Garden,3rd Ngong Avenue</p>
                                     </div>
                                  </div>
                               </div>
@@ -283,7 +283,7 @@
                      </div>
                   </div>
                </section>
-               <section class="elementor-section elementor-top-section elementor-element elementor-element-1e5128c elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="1e5128c" data-element_type="section">
+               {{-- <section class="elementor-section elementor-top-section elementor-element elementor-element-1e5128c elementor-section-full_width elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="1e5128c" data-element_type="section">
                   <div class="elementor-container elementor-column-gap-no">
                      <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f562e19" data-id="f562e19" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -301,9 +301,9 @@
                         </div>
                      </div>
                   </div>
-               </section>
+               </section> --}}
 
-               <section class="elementor-section elementor-top-section elementor-element elementor-element-6c92de53 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c92de53" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+               {{-- <section class="elementor-section elementor-top-section elementor-element elementor-element-6c92de53 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c92de53" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                   <div class="elementor-container elementor-column-gap-no">
                      <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5ce4b565" data-id="5ce4b565" data-element_type="column">
                         <div class="elementor-widget-wrap elementor-element-populated">
@@ -432,8 +432,8 @@
                         </div>
                      </div>
                   </div>
-               </section>
-               <section class="elementor-section elementor-top-section elementor-element elementor-element-2e9b2463 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e9b2463" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+               </section> --}}
+               {{-- <section class="elementor-section elementor-top-section elementor-element elementor-element-2e9b2463 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e9b2463" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                   <div class="elementor-background-overlay"></div>
                   <div class="elementor-container elementor-column-gap-wide">
                      <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71939593" data-id="71939593" data-element_type="column">
@@ -452,7 +452,7 @@
                         <div class="elementor-widget-wrap elementor-element-populated">
                            <div class="elementor-element elementor-element-5c8c7246 elementor-widget elementor-widget-text-editor" data-id="5c8c7246" data-element_type="widget" data-widget_type="text-editor.default">
                               <div class="elementor-widget-container">
-                                 <p>Geopoint Inc. routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.</p>
+                                 <p>GeoParcel Surveyor Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.</p>
                               </div>
                            </div>
                            <div class="elementor-element elementor-element-1e0151ac elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-right elementor-view-default elementor-widget elementor-widget-divider" data-id="1e0151ac" data-element_type="widget" data-widget_type="divider.default">
@@ -467,7 +467,7 @@
                         </div>
                      </div>
                   </div>
-               </section>
+               </section> --}}
             </div>
             <div class="clearfix"></div>
             <div class="clearfix"></div>
@@ -487,9 +487,9 @@
                       <div class="tmnf_column tmnf_column_vis tmnf_column_12">
                          <img class="footer_img tranz" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Home"/>
                          <ul id="menu-footer-menu" class="bottom-menu">
-                            <li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4295"><a href="index.html" aria-current="page">Home</a></li>
-                            <li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="news/index.html">News</a></li>
-                            <li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4432"><a href="pages/contact-us/index.html">Contact Us</a></li>
+                            <li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4295"><a href="{{url('/')}}" aria-current="page">Home</a></li>
+                            <li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="{{url('/')}}/about-us">About Us</a></li>
+                            <li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4432"><a href="{{url('/')}}/contact-us">Contact Us</a></li>
 
                          </ul>
                       </div>
