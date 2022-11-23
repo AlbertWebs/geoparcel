@@ -23,7 +23,7 @@
                             </div>
                             <div class="elementor-element elementor-element-9bab5ff elementor-widget elementor-widget-text-editor" data-id="9bab5ff" data-element_type="widget" data-widget_type="text-editor.default">
                                <div class="elementor-widget-container">
-                                  <p>GeoParcel Surveyors Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.</p>
+                                  <p>GeoParcel Surveyors Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Nairobi.</p>
                                </div>
                             </div>
                          </div>
@@ -240,7 +240,7 @@
                 </div>
                 <div class="elementor-element elementor-element-16dcd35 elementor-widget elementor-widget-text-editor" data-id="16dcd35" data-element_type="widget" data-widget_type="text-editor.default">
                    <div class="elementor-widget-container">
-                      <p>GeoParcel Surveyors Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.</p>
+                      <p>GeoParcel Surveyors Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Nairobi.</p>
                    </div>
                 </div>
              </div>

@@ -14,7 +14,9 @@
                          <li id="menu-item-4413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4413" aria-haspopup="true" role="menuitem" aria-expanded="false" tabindex="0">
                             <a href="pages/index.html">Services</a>
                             <ul class="sub-menu">
-                               <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="pages/about-us/index.html">About Us</a></li>
+                               <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="#">Land/Property Survey</a></li>
+                               <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="#">Setting Out</a></li>
+                               <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a href="#">Topographic Survey</a></li>
                             </ul>
                          </li>
 
