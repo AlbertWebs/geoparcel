@@ -291,143 +291,8 @@
           </div>
        </div>
     </section>
-    <section class="elementor-section elementor-top-section elementor-element elementor-element-8690d6d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8690d6d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-       <div class="elementor-container elementor-column-gap-wide">
-          <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6049bd5 elementor-hidden-tablet elementor-hidden-mobile" data-id="6049bd5" data-element_type="column">
-             <div class="elementor-widget-wrap elementor-element-populated">
-                <div class="elementor-element elementor-element-fff172c elementor-widget elementor-widget-image" data-id="fff172c" data-element_type="widget" data-widget_type="image.default">
-                   <div class="elementor-widget-container"> <img decoding="async" src="{{asset('geopoint/wp-content/uploads/elementor/thumbs/image-from-rawpixel-id-3746844-jpeg-plzx43gjzjnwr8nj9actfmuh20t8yc2awsexvk7dao.jpg')}}" title="image-from-rawpixel-id-3746844-jpeg" alt="image-from-rawpixel-id-3746844-jpeg" /></div>
-                </div>
-                <div class="elementor-element elementor-element-ce8341f elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-testimonial" data-id="ce8341f" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="testimonial.default">
-                   <div class="elementor-widget-container">
-                      <div class="elementor-testimonial-wrapper">
-                         <div class="elementor-testimonial-content">34 years of successful land surveying and mapping projects in the greater Boise County region.</div>
-                         <div class="elementor-testimonial-meta elementor-has-image elementor-testimonial-image-position-aside">
-                            <div class="elementor-testimonial-meta-inner">
-                               <div class="elementor-testimonial-image"> <img decoding="async" width="590" height="590" src="{{asset('geopoint/wp-content/uploads/2022/03/memb09.jpg')}}" class="attachment-full size-full" alt="" loading="lazy" /></div>
-                               <div class="elementor-testimonial-details">
-                                  <div class="elementor-testimonial-name">John Dahlio</div>
-                                  <div class="elementor-testimonial-job">Founder & CEO</div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                   </div>
-                </div>
-             </div>
-          </div>
-          <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d674df9 elementor-hidden-tablet elementor-hidden-mobile" data-id="d674df9" data-element_type="column">
-             <div class="elementor-widget-wrap"></div>
-          </div>
-          <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-ae7d5a2" data-id="ae7d5a2" data-element_type="column">
-             <div class="elementor-widget-wrap elementor-element-populated">
-                <div class="elementor-element elementor-element-c45590a elementor-widget elementor-widget-heading" data-id="c45590a" data-element_type="widget" data-widget_type="heading.default">
-                   <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-xl">About our organization, mission, our methods, and the range of services.</h2>
-                   </div>
-                </div>
-                <div class="elementor-element elementor-element-764fee9 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="764fee9" data-element_type="widget" data-widget_type="divider.default">
-                   <div class="elementor-widget-container">
-                      <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div>
-                   </div>
-                </div>
-                <div class="elementor-element elementor-element-f560a8a elementor-widget elementor-widget-text-editor" data-id="f560a8a" data-element_type="widget" data-widget_type="text-editor.default">
-                   <div class="elementor-widget-container"> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries.</div>
-                </div>
-                <div class="elementor-element elementor-element-ea6d262 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ea6d262" data-element_type="widget" data-widget_type="divider.default">
-                   <div class="elementor-widget-container">
-                      <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div>
-                   </div>
-                </div>
-                <section class="elementor-section elementor-inner-section elementor-element elementor-element-6555221 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6555221" data-element_type="section">
-                   <div class="elementor-container elementor-column-gap-no">
-                      <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0f3d196" data-id="0f3d196" data-element_type="column">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-7aa4878 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="7aa4878" data-element_type="widget" data-widget_type="icon-box.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-icon-box-wrapper">
-                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-ruler-combined"></i> </span></div>
-                                     <div class="elementor-icon-box-content">
-                                        <h6 class="elementor-icon-box-title"> <span  > Precise Land Surveying </span></h6>
-                                        <p class="elementor-icon-box-description"> We approach every project with a focus on exceeding the client’s needs.</p>
-                                     </div>
-                                  </div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-838f06c" data-id="838f06c" data-element_type="column">
-                         <div class="elementor-widget-wrap"></div>
-                      </div>
-                      <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-95c4385" data-id="95c4385" data-element_type="column">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-987dec7 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="987dec7" data-element_type="widget" data-widget_type="icon-box.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-icon-box-wrapper">
-                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-search-dollar"></i> </span></div>
-                                     <div class="elementor-icon-box-content">
-                                        <h6 class="elementor-icon-box-title"> <span  > Affordable & Accurate </span></h6>
-                                        <p class="elementor-icon-box-description"> Legal requirements can be tricky and land surveying companies can’t keep.</p>
-                                     </div>
-                                  </div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                   </div>
-                </section>
-             </div>
-          </div>
-       </div>
-    </section>
-    <section class="elementor-section elementor-top-section elementor-element elementor-element-b5f0c81 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b5f0c81" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-       <div class="elementor-container elementor-column-gap-wide">
-          <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e713488" data-id="e713488" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-             <div class="elementor-widget-wrap elementor-element-populated">
-                <div class="elementor-background-overlay"></div>
-                <section class="elementor-section elementor-inner-section elementor-element elementor-element-1f57f02 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f57f02" data-element_type="section">
-                   <div class="elementor-container elementor-column-gap-default">
-                      <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-ee56adf" data-id="ee56adf" data-element_type="column">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-78b929f elementor-widget elementor-widget-image" data-id="78b929f" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="52" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-1-enginery-inv.png')}}" class="attachment-full size-full" alt="" loading="lazy" /> </a></div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-e06e712" data-id="e06e712" data-element_type="column">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-7fb73a8 elementor-widget elementor-widget-image" data-id="7fb73a8" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="86" height="80" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-6-dotorg-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-9360f78" data-id="9360f78" data-element_type="column">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-2a45d86 elementor-widget elementor-widget-image" data-id="2a45d86" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="145" height="90" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-4-wilco-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-6d1f723" data-id="6d1f723" data-element_type="column">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-adf4292 elementor-widget elementor-widget-image" data-id="adf4292" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="68" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-5-cultera-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-20 elementor-inner-column elementor-element elementor-element-77ce029" data-id="77ce029" data-element_type="column">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-0a7f76b elementor-widget elementor-widget-image" data-id="0a7f76b" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <a href="#"> <img decoding="async" width="300" height="66" src="{{asset('geopoint/wp-content/uploads/2022/03/logo-2-visuality-inv.png')}}" class="attachment-large size-large" alt="" loading="lazy" /> </a></div>
-                            </div>
-                         </div>
-                      </div>
-                   </div>
-                </section>
-             </div>
-          </div>
-       </div>
-    </section>
+
+
     <section class="elementor-section elementor-top-section elementor-element elementor-element-a4e0bd5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a4e0bd5" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
        <div class="elementor-container elementor-column-gap-no">
           <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d1fc862" data-id="d1fc862" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
@@ -468,7 +333,7 @@
                                               </div>
                                               <div class="item_inn">
                                                  <div class="clearfix"></div>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">May 15<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by David Wood" rel="author">David Wood</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">May 15<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
                                                  <h3><a class="link--forsure" href="on-our-side-the-fire-had-done-no-more-than-scorch-the-nearer-trees/index.html">Minimum standard detail requirements for land title surveys</a></h3>
                                               </div>
                                            </div>
@@ -497,7 +362,7 @@
                                                  <div class="clearfix"></div>
                                                  <h3><a class="link--forsure" href="for-a-minute-or-two-she-stood-looking-at-the-house/index.html">Basic boundary survey with property corners</a></h3>
                                                  <p class="teaser">But how puny and harmless they now looked beside this huge and terrific<span class="helip">...</span></p>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 17<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by David Wood" rel="author">David Wood</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 17<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
                                               </div>
                                            </div>
                                         </div>
@@ -507,7 +372,7 @@
                                                  <div class="clearfix"></div>
                                                  <h3><a class="link--forsure" href="how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Research of federal and state resources and the public record</a></h3>
                                                  <p class="teaser">It did so indeed, and much sooner than she had expected: before she had drunk<span class="helip">...</span></p>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 13<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by David Wood" rel="author">David Wood</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 13<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
                                               </div>
                                            </div>
                                         </div>
@@ -517,7 +382,7 @@
                                                  <div class="clearfix"></div>
                                                  <h3><a class="link--forsure" href="she-was-also-less-cold-and-cruel-than-most-green-martian-women/index.html">​​State Board of Licensure for Professional Engineers</a></h3>
                                                  <p class="teaser">But how puny and harmless they now looked beside this huge and terrific<span class="helip">...</span></p>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Jan 9<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by David Wood" rel="author">David Wood</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Jan 9<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
                                               </div>
                                            </div>
                                         </div>

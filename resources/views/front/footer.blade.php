@@ -26,13 +26,13 @@
           <ul>
              <li> <a href="for-a-minute-or-two-she-stood-looking-at-the-house/index.html">Basic boundary survey with property corners</a></li>
              <li> <a href="how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Research of federal and state resources and the public record</a></li>
-             <li> <a href="she-was-also-less-cold-and-cruel-than-most-green-martian-women/index.html">​​State Board of Licensure for Professional Engineers</a></li>
+
           </ul>
        </div>
        <div class="tmnf_foocol third">
           <h4 class="widget tmnf_border small_title">Services</h4>
           <ul>
-             <li class="cat-item cat-item-12"><a href="category/featured/index.html">Featured</a></li>
+
              <li class="cat-item cat-item-14"><a href="category/land-survey/index.html">Land Survey</a></li>
              <li class="cat-item cat-item-8"><a href="category/photos/index.html">Photos</a></li>
              <li class="cat-item cat-item-2"><a href="category/resources/index.html">Resources</a></li>
@@ -42,20 +42,20 @@
        <div class="tmnf_foocol last">
           <h4 class="widget tmnf_border small_title">Meta</h4>
           <ul>
-             <li><a href="wp-login.html">Log in</a></li>
-             <li><a href="feed/index.html">Entries feed</a></li>
-             <li><a href="comments/feed/index.html">Comments feed</a></li>
-             <li><a href="https://wordpress.org/">WordPress.org</a></li>
+             <li><a href="wp-login.html">Sitemap</a></li>
+             <li><a href="#">Terms and Conditions</a></li>
+             <li><a href="#">Privacy Policy</a></li>
+             <li><a href="#">Copyright Statement</a></li>
           </ul>
        </div>
     </div>
     <div class="clearfix"></div>
     <div class="bottom_line tmnf_border">
        <div class="tmnf_container">
-          <div class="tmnf_column tmnf_column_4">
-             <div class="footer_credits">Copyright © {{date('Y')}} - Geoparcel Surveyors Limited</div>
+          <div class="tmnf_column tmnf_column_5">
+             <div class="footer_credits">Copyright © {{date('Y')}} - Geoparcel Surveyors Limited All Rights Reserved</div>
           </div>
-          <div class="tmnf_column tmnf_column_8">
+          <div class="tmnf_column tmnf_column_7">
              <ul class="tmnf_social_icons tranz">
                 <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
                 <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
