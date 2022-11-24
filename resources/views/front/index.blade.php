@@ -45,7 +45,7 @@
                                   <div class="elementor-icon-box-wrapper">
                                      <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="far fa-envelope-open"></i> </span></div>
                                      <div class="elementor-icon-box-content">
-                                        <p class="elementor-icon-box-title"> <span  > hello@geoparcelsurveys.com </span></p>
+                                        <p class="elementor-icon-box-title"> <span  > info@geoparcelsurveys.com </span></p>
                                         <p class="elementor-icon-box-description"> Don’t hesitate and write us. This is the general email.</p>
                                      </div>
                                   </div>
@@ -112,15 +112,15 @@
                 </section>
                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-45f9660 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45f9660" data-element_type="section">
                    <div class="elementor-container elementor-column-gap-default">
-                      <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8d58660" data-id="8d58660" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                      <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8d58660" data-id="8d58660" data-element_type="column" data-settings="{background_background:classic;}">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-470afc2 elementor-widget elementor-widget-image" data-id="470afc2" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container"> <img decoding="async" width="128" height="128" src="wp-content/uploads/2022/03/005-map.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/005-map.png 128w, http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/005-map-90x90.png 90w" sizes="(max-width: 128px) 100vw, 128px" /></div>
                             </div>
                             <div class="elementor-element elementor-element-a5f2f88 elementor-widget elementor-widget-heading" data-id="a5f2f88" data-element_type="widget" data-widget_type="heading.default">
                                <div class="elementor-widget-container">
-                                  <p class="elementor-heading-title elementor-size-default">Real Estate
-                                     Property Boundaries
+                                  <p class="elementor-heading-title elementor-size-default">
+                                    Land/Property Survey
                                   </p>
                                </div>
                             </div>
@@ -139,14 +139,14 @@
                             </div>
                          </div>
                       </div>
-                      <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2037d1f" data-id="2037d1f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                      <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2037d1f" data-id="2037d1f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-5df5262 elementor-widget elementor-widget-image" data-id="5df5262" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container"> <img decoding="async" width="128" height="128" src="wp-content/uploads/2022/03/002-mapping-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/002-mapping-1.png 128w, http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/002-mapping-1-90x90.png 90w" sizes="(max-width: 128px) 100vw, 128px" /></div>
                             </div>
                             <div class="elementor-element elementor-element-46fea8b elementor-widget elementor-widget-heading" data-id="46fea8b" data-element_type="widget" data-widget_type="heading.default">
                                <div class="elementor-widget-container">
-                                  <p class="elementor-heading-title elementor-size-default">Land Survey Plat</p>
+                                  <p class="elementor-heading-title elementor-size-default">Setting Out</p>
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-3bbf348 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3bbf348" data-element_type="widget" data-widget_type="divider.default">
@@ -164,14 +164,14 @@
                             </div>
                          </div>
                       </div>
-                      <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-12b25aa" data-id="12b25aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                      <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-12b25aa" data-id="12b25aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-f382084 elementor-widget elementor-widget-image" data-id="f382084" data-element_type="widget" data-widget_type="image.default">
                                <div class="elementor-widget-container"> <img decoding="async" width="128" height="128" src="wp-content/uploads/2022/03/008-location.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/008-location.png 128w, http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/008-location-90x90.png 90w" sizes="(max-width: 128px) 100vw, 128px" /></div>
                             </div>
                             <div class="elementor-element elementor-element-7542257 elementor-widget elementor-widget-heading" data-id="7542257" data-element_type="widget" data-widget_type="heading.default">
                                <div class="elementor-widget-container">
-                                  <p class="elementor-heading-title elementor-size-default">Topographic Exhibit</p>
+                                  <p class="elementor-heading-title elementor-size-default">Topographic Survey</p>
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-66bd7e4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="66bd7e4" data-element_type="widget" data-widget_type="divider.default">
@@ -183,31 +183,6 @@
                                <div class="elementor-widget-container"> In modern mapping, a topographic map or topographic sheet is a type of map characterized by large-scale detail and quantitative representation of relief.</div>
                             </div>
                             <div class="elementor-element elementor-element-f3b36f3 e-transform elementor-view-default elementor-widget elementor-widget-icon" data-id="f3b36f3" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:6,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="icon.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-icon-wrapper"> <a class="elementor-icon" href="#"> <i aria-hidden="true" class="fas fa-arrow-right"></i> </a></div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6897f00" data-id="6897f00" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-d426de9 elementor-widget elementor-widget-image" data-id="d426de9" data-element_type="widget" data-widget_type="image.default">
-                               <div class="elementor-widget-container"> <img decoding="async" width="128" height="128" src="wp-content/uploads/2022/03/010-measuring.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/010-measuring.png 128w, http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/010-measuring-90x90.png 90w" sizes="(max-width: 128px) 100vw, 128px" /></div>
-                            </div>
-                            <div class="elementor-element elementor-element-6b6899b elementor-widget elementor-widget-heading" data-id="6b6899b" data-element_type="widget" data-widget_type="heading.default">
-                               <div class="elementor-widget-container">
-                                  <p class="elementor-heading-title elementor-size-default">Improvement Location Certificate</p>
-                               </div>
-                            </div>
-                            <div class="elementor-element elementor-element-8814b17 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8814b17" data-element_type="widget" data-widget_type="divider.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div>
-                               </div>
-                            </div>
-                            <div class="elementor-element elementor-element-3ac9944 elementor-widget elementor-widget-text-editor" data-id="3ac9944" data-element_type="widget" data-widget_type="text-editor.default">
-                               <div class="elementor-widget-container"> Is an inspection of a parcel by a licensed surveyor to determine possible encroachments or other matters that could be adverse from a land surveying standpoint.</div>
-                            </div>
-                            <div class="elementor-element elementor-element-a2daa6c e-transform elementor-view-default elementor-widget elementor-widget-icon" data-id="a2daa6c" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:6,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="icon.default">
                                <div class="elementor-widget-container">
                                   <div class="elementor-icon-wrapper"> <a class="elementor-icon" href="#"> <i aria-hidden="true" class="fas fa-arrow-right"></i> </a></div>
                                </div>
@@ -333,7 +308,7 @@
                                               </div>
                                               <div class="item_inn">
                                                  <div class="clearfix"></div>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">May 15<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">May 15<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Geoparcel Admin" rel="author">Geoparcel Admin</a></span></p>
                                                  <h3><a class="link--forsure" href="on-our-side-the-fire-had-done-no-more-than-scorch-the-nearer-trees/index.html">Minimum standard detail requirements for land title surveys</a></h3>
                                               </div>
                                            </div>
@@ -362,7 +337,7 @@
                                                  <div class="clearfix"></div>
                                                  <h3><a class="link--forsure" href="for-a-minute-or-two-she-stood-looking-at-the-house/index.html">Basic boundary survey with property corners</a></h3>
                                                  <p class="teaser">But how puny and harmless they now looked beside this huge and terrific<span class="helip">...</span></p>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 17<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 17<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Geoparcel Admin" rel="author">Geoparcel Admin</a></span></p>
                                               </div>
                                            </div>
                                         </div>
@@ -372,7 +347,7 @@
                                                  <div class="clearfix"></div>
                                                  <h3><a class="link--forsure" href="how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Research of federal and state resources and the public record</a></h3>
                                                  <p class="teaser">It did so indeed, and much sooner than she had expected: before she had drunk<span class="helip">...</span></p>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 13<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Feb 13<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Geoparcel Admin" rel="author">Geoparcel Admin</a></span></p>
                                               </div>
                                            </div>
                                         </div>
@@ -382,7 +357,7 @@
                                                  <div class="clearfix"></div>
                                                  <h3><a class="link--forsure" href="she-was-also-less-cold-and-cruel-than-most-green-martian-women/index.html">​​State Board of Licensure for Professional Engineers</a></h3>
                                                  <p class="teaser">But how puny and harmless they now looked beside this huge and terrific<span class="helip">...</span></p>
-                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Jan 9<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Steve Otieno" rel="author">Steve Otieno</a></span></p>
+                                                 <p class="tmnf_meta meta_front "> <span class="post-date">Jan 9<span class="meta_divider">&bull;</span></span> <span class="author"><span class="author_by">by</span><a href="author/los2aktivos/index.html" title="Posts by Geoparcel Admin" rel="author">Geoparcel Admin</a></span></p>
                                               </div>
                                            </div>
                                         </div>

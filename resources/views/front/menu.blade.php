@@ -21,8 +21,8 @@
                          </li>
 
                          {{-- <li id="menu-item-5655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5655"><a href="projects/index.html">Projects</a></li> --}}
-                         <li id="menu-item-4266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4266"><a target="_blank" href="{{url('/')}}/contact-us">Contact Us</a></li>
-                         <li id="menu-item-4417" class="special menu-item menu-item-type-post_type menu-item-object-page menu-item-4417"><a href="pages/contact-us/index.html">Request a Survey<span class="menu-item-description tranz">Let’s talk about projects.</span></a></li>
+                         <li id="menu-item-4266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4266"><a  href="{{url('/')}}/contact-us">Contact Us</a></li>
+                         <li id="menu-item-4417" class="special menu-item menu-item-type-post_type menu-item-object-page menu-item-4417"><a href="{{url('/')}}/contact-us">Request a Survey<span class="menu-item-description tranz">Let’s talk about projects.</span></a></li>
                       </ul>
                    </nav>
                 </div>

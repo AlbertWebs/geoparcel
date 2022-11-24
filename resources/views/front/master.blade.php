@@ -9,7 +9,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="pingback" href="xmlrpc.php" />
       <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_e2b97ae2cf246a149e3016f5618656ac.css')}}" rel="stylesheet" />
-      <title>Geopoint &#8211; Professional Land Surveying</title>
+      <title>GeoParcel Surveyors Limited - Professional Land Surveying</title>
       <meta name='robots' content='max-image-preview:large' />
       <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
       <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
