@@ -1,21 +1,10 @@
 <div id="footer">
-    <div class="footer_head tmnf_border">
-       <div class="tmnf_container tmnf_container_vis">
-          <div class="tmnf_column tmnf_column_vis tmnf_column_12">
-             <img class="footer_img tranz" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Home"/>
-             <ul id="menu-footer-menu" class="bottom-menu">
-                <li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4295"><a href="index.html" aria-current="page">Home</a></li>
-                <li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="news/index.html">News</a></li>
-                <li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4432"><a href="pages/contact-us/index.html">Contact Us</a></li>
-
-             </ul>
-          </div>
-       </div>
-    </div>
     <div class="clearfix"></div>
     <div class="tmnf_container">
        <div class="tmnf_foocol first">
+        {{-- <img width="100" class="footer_img tranz" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Home"/> --}}
           <h4 class="widget tmnf_border small_title">GeoParcel Surveyors.</h4>
+
           <div class="textwidget">
              <p>GeoParcel Surveyors. routinely provides surveying solutions for business, real estate, land development and civil engineering in Nairobi Area.<br /> The highest quality, most accurate &amp; precise land surveying services.</p>
           </div>
