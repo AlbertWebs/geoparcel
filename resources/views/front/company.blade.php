@@ -144,18 +144,10 @@
             <div class="tmnf_container tmnf_container_head">
               <div class="tmnf_column tmnf_column_12">
                 <div class="titles_fix"></div>
-                <h2 class="header_text">
-                  <i class="fas fa-map-marker-alt"></i> Upperhill Garden,3rd Ngong Avenue
-                </h2>
+                <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> Upperhill Garden,3rd Ngong Avenue</h2>
                 <ul id="add-nav" class="nav">
-                  <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418">
-                    <a href="tel:000.452.87.9875">
-                      <i class="fas fa-phone-square-alt"></i> +452.87.9875 </a>
-                  </li>
-                  <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144">
-                    <a href="#">
-                      <i class="far fa-envelope"></i> hello@geopoint.com </a>
-                  </li>
+                    <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 705 192 693"><i class="fas fa-phone-square-alt"></i> +254 705 192 693</a></li>
+                    <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> hello@geoparcelsurveys.com</a></li>
                 </ul>
                 <div class="clearfix"></div>
               </div>
@@ -174,10 +166,10 @@
               <div class="tmnf_post_head">
                 <div class="main_breadcrumbs">
                   <span class="crumb crumb_home">
-                    <a href="../../index.html">Home</a>
+                    <a href="{{url('/')}}">Home</a>
                   </span>
                   <span class="crumb crumb_single">
-                    <a href="../index.html">Pages</a>
+                    <a href="{{url('/')}}/the-company">The Company</a>
                   </span>
                   <span class="crumb">About Us</span>
                 </div>
@@ -190,44 +182,54 @@
         </div>
         <div id="content_start" class="tmnf_anchor"></div>
         <div data-elementor-type="wp-page" data-elementor-id="5175" class="elementor elementor-5175">
-          <section class="elementor-section elementor-top-section elementor-element elementor-element-0ac5f88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac5f88" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-            <div class="elementor-container elementor-column-gap-wide">
-              <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4a58a47" data-id="4a58a47" data-element_type="column">
-                <div class="elementor-widget-wrap elementor-element-populated">
-                  <div class="elementor-element elementor-element-efec7bf elementor-widget elementor-widget-heading" data-id="efec7bf" data-element_type="widget" data-widget_type="heading.default">
-                    <div class="elementor-widget-container">
-                      <h4 class="elementor-heading-title elementor-size-default">A small company providing <br>land surveying services </h4>
-                    </div>
-                  </div>
-                  <div class="elementor-element elementor-element-1078c99 elementor-widget elementor-widget-heading" data-id="1078c99" data-element_type="widget" data-widget_type="heading.default">
-                    <div class="elementor-widget-container">
-                      <h2 class="elementor-heading-title elementor-size-xl">Using time saving methods and technologies.</h2>
-                    </div>
-                  </div>
-                  <div class="elementor-element elementor-element-167d1a2 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-right elementor-view-default elementor-widget elementor-widget-divider" data-id="167d1a2" data-element_type="widget" data-widget_type="divider.default">
-                    <div class="elementor-widget-container">
-                      <div class="elementor-divider">
-                        <span class="elementor-divider-separator">
-                          <div class="elementor-icon elementor-divider__element">
-                            <i aria-hidden="true" class="fas fa-square-full"></i>
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-0ac5f88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac5f88" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-wide">
+                  <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4a58a47" data-id="4a58a47" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-efec7bf elementor-widget elementor-widget-heading" data-id="efec7bf" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h4 class="elementor-heading-title elementor-size-default">We Provide <br>land surveying services </h4>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-1078c99 elementor-widget elementor-widget-heading" data-id="1078c99" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-xl">Professional Survey Services</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-167d1a2 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-right elementor-view-default elementor-widget elementor-widget-divider" data-id="167d1a2" data-element_type="widget" data-widget_type="divider.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                              <div class="elementor-icon elementor-divider__element">
+                                <i aria-hidden="true" class="fas fa-square-full"></i>
+                              </div>
+                            </span>
                           </div>
-                        </span>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor" data-id="1acdcb4" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container"> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br> <br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br><br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br><br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries.</div>
                       </div>
                     </div>
                   </div>
-                  <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor" data-id="1acdcb4" data-element_type="widget" data-widget_type="text-editor.default">
-                    <div class="elementor-widget-container"> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries.</div>
+                  <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1616ce5 elementor-hidden-tablet elementor-hidden-mobile" data-id="1616ce5" data-element_type="column">
+                    <div class="elementor-widget-wrap"></div>
+                  </div>
+                  <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-696824b" data-id="696824b" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-a50f02c elementor-widget elementor-widget-image" data-id="a50f02c" data-element_type="widget" data-widget_type="image.default">
+                        <div class="elementor-widget-container">
+                          <img decoding="async" src="{{asset('geopoint/wp-content/uploads/valeria-fursa-zSrksQgp4W0-unsplash-geo-parcel.jpg')}}" title="image-from-rawpixel-id-3805837-jpeg" alt="image-from-rawpixel-id-3805837-jpeg" />
+                        </div>
+                      </div>
+                    </div>
                   </div>
                 </div>
-              </div>
-
-            </div>
-          </section>
-
+            </section>
         </div>
         <div class="clearfix"></div>
         <div class="clearfix"></div>
-        <div id="footop" class="footop ">
+        {{-- <div id="footop" class="footop ">
           <img class="tranz tmnf_hero_image" src="{{asset('geopoint/wp-content/uploads/2022/03/12175.jpg')}}" alt="About Us" />
           <div class="tmnf_container">
             <div class="tmnf_column tmnf_column_12">
@@ -236,76 +238,8 @@
               </div>
             </div>
           </div>
-        </div>
-        <div id="footer">
-            <div class="footer_head tmnf_border">
-               <div class="tmnf_container tmnf_container_vis">
-                  <div class="tmnf_column tmnf_column_vis tmnf_column_12">
-                     <img class="footer_img tranz" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Home"/>
-                     <ul id="menu-footer-menu" class="bottom-menu">
-                        <li id="menu-item-4295" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4295"><a href="index.html" aria-current="page">Home</a></li>
-                        <li id="menu-item-4431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4431"><a href="news/index.html">News</a></li>
-                        <li id="menu-item-4432" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4432"><a href="pages/contact-us/index.html">Contact Us</a></li>
-
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="clearfix"></div>
-            <div class="tmnf_container">
-               <div class="tmnf_foocol first">
-                  <h4 class="widget tmnf_border small_title">GeoParcel Surveyors Limited.</h4>
-                  <div class="textwidget">
-                     <p>GeoParcel Surveyors. routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.<br /> The highest quality, most accurate &amp; precise land surveying services.</p>
-                  </div>
-                  {{-- <form role="search" class="searchform" method="get" action="http://themestate.com/demo/geopoint/"> <label for="search-form-637c692f17862"> <span class="screen-reader-text">Search for:</span> </label> <input id="search-form-637c692f17862"  type="text" name="s" class="s p-border" size="30" value="Search..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /> <button class='searchSubmit ribbon' ><i class="fas fa-search"></i></button></form> --}}
-               </div>
-               <div class="tmnf_foocol sec">
-                  <h4 class="widget tmnf_border small_title">Latest News</h4>
-                  <ul>
-                     <li> <a href="for-a-minute-or-two-she-stood-looking-at-the-house/index.html">Basic boundary survey with property corners</a></li>
-                     <li> <a href="how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Research of federal and state resources and the public record</a></li>
-                     <li> <a href="she-was-also-less-cold-and-cruel-than-most-green-martian-women/index.html">​​State Board of Licensure for Professional Engineers</a></li>
-                  </ul>
-               </div>
-               <div class="tmnf_foocol third">
-                  <h4 class="widget tmnf_border small_title">Categories</h4>
-                  <ul>
-                     <li class="cat-item cat-item-12"><a href="category/featured/index.html">Featured</a></li>
-                     <li class="cat-item cat-item-14"><a href="category/land-survey/index.html">Land Survey</a></li>
-                     <li class="cat-item cat-item-6"><a href="category/location-certificates/index.html">Location Certificates</a></li>
-                     <li class="cat-item cat-item-8"><a href="category/photos/index.html">Photos</a></li>
-                     <li class="cat-item cat-item-2"><a href="category/resources/index.html">Resources</a></li>
-                     <li class="cat-item cat-item-11"><a href="category/topographic-mapping/index.html">Topographic Mapping</a></li>
-                  </ul>
-               </div>
-               <div class="tmnf_foocol last">
-                  <h4 class="widget tmnf_border small_title">Meta</h4>
-                  <ul>
-                     <li><a href="wp-login.html">Log in</a></li>
-                     <li><a href="feed/index.html">Entries feed</a></li>
-                     <li><a href="comments/feed/index.html">Comments feed</a></li>
-                     <li><a href="https://wordpress.org/">WordPress.org</a></li>
-                  </ul>
-               </div>
-            </div>
-            <div class="clearfix"></div>
-            <div class="bottom_line tmnf_border">
-               <div class="tmnf_container">
-                  <div class="tmnf_column tmnf_column_4">
-                     <div class="footer_credits">Copyright © {{date('Y')}} - Geoparcel Surveyors Limited</div>
-                  </div>
-                  <div class="tmnf_column tmnf_column_8">
-                     <ul class="tmnf_social_icons tranz">
-                        <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
-                        <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
-                        <li class="tmnf_facebook"><a href="index.html#"><i class="fab fa-facebook"></i><span>Facebook</span></a></li>
-                     </ul>
-                  </div>
-               </div>
-            </div>
-            <div class="clearfix"></div>
-         </div>
+        </div> --}}
+        @include('front.footer')
         <div class="site_offset">
           <ul class="tmnf_social_icons tranz">
             <li class="tmnf_twitter">
@@ -320,10 +254,10 @@
                 <span>LinkedIn</span>
               </a>
             </li>
-            <li class="tmnf_foursquare">
+            <li class="tmnf_facebook">
               <a href="../../index.html#">
-                <i class="fab fa-foursquare"></i>
-                <span>Foursquare</span>
+                <i class="fab fa-facebook"></i>
+                <span>Facebook</span>
               </a>
             </li>
           </ul>

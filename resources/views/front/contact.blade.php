@@ -147,7 +147,7 @@
                         <div class="titles_fix"></div>
                         <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> Upperhill Garden,3rd Ngong Avenue</h2>
                         <ul id="add-nav" class="nav">
-                           <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 723014032"><i class="fas fa-phone-square-alt"></i> +254 723014032</a></li>
+                           <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 705 192 693"><i class="fas fa-phone-square-alt"></i> +254 705 192 693</a></li>
                            <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> hello@geoparcelsurveys.com</a></li>
                         </ul>
                         <div class="clearfix"></div>
@@ -232,7 +232,7 @@
                                  <div class="elementor-icon-box-wrapper">
                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-phone-volume"></i> </span></div>
                                     <div class="elementor-icon-box-content">
-                                       <p class="elementor-icon-box-title"> <span  > +254 723014032 </span></p>
+                                       <p class="elementor-icon-box-title"> <span  > +254 705 192 693 </span></p>
                                        <p class="elementor-icon-box-description"> We are available for questions and estimates.</p>
                                     </div>
                                  </div>

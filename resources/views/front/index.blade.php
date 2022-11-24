@@ -60,7 +60,7 @@
                                   <div class="elementor-icon-box-wrapper">
                                      <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="fas fa-phone-volume"></i> </span></div>
                                      <div class="elementor-icon-box-content">
-                                        <p class="elementor-icon-box-title"> <span  > +254 723014032 </span></p>
+                                        <p class="elementor-icon-box-title"> <span  > +254 705 192 693 </span></p>
                                         <p class="elementor-icon-box-description"> We are available for questions and estimates.</p>
                                      </div>
                                   </div>
@@ -260,12 +260,12 @@
                          <div class="elementor-widget-wrap elementor-element-populated">
                             <div class="elementor-element elementor-element-7b523b6 elementor-widget elementor-widget-heading" data-id="7b523b6" data-element_type="widget" data-widget_type="heading.default">
                                <div class="elementor-widget-container">
-                                  <h4 class="elementor-heading-title elementor-size-default">We are a small company <br>providing a variety of <br>land surveying services</h4>
+                                  <h4 class="elementor-heading-title elementor-size-default">We Provide <br>land surveying services</h4>
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-dec49f7 elementor-widget elementor-widget-heading" data-id="dec49f7" data-element_type="widget" data-widget_type="heading.default">
                                <div class="elementor-widget-container">
-                                  <h2 class="elementor-heading-title elementor-size-xl">Using time saving methods and technologies.</h2>
+                                  <h2 class="elementor-heading-title elementor-size-xl">Professional Survey Services</h2>
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-54d599c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="54d599c" data-element_type="widget" data-widget_type="divider.default">
@@ -274,75 +274,19 @@
                                </div>
                             </div>
                             <div class="elementor-element elementor-element-91194f4 elementor-widget elementor-widget-text-editor" data-id="91194f4" data-element_type="widget" data-widget_type="text-editor.default">
-                               <div class="elementor-widget-container">
-                                  <p>One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries.</p>
-                               </div>
+                                <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor" data-id="1acdcb4" data-element_type="widget" data-widget_type="text-editor.default">
+                                    <div class="elementor-widget-container"> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br> <br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br><br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br></div>
+                                </div>
                             </div>
                          </div>
                       </div>
                       <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4846c50" data-id="4846c50" data-element_type="column">
                          <div class="elementor-widget-wrap"></div>
                       </div>
+
                    </div>
                 </section>
-                <section class="elementor-section elementor-inner-section elementor-element elementor-element-a31fe67 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a31fe67" data-element_type="section">
-                   <div class="elementor-container elementor-column-gap-default">
-                      <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-834cb22 elementor-hidden-tablet elementor-hidden-mobile" data-id="834cb22" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                         <div class="elementor-widget-wrap"></div>
-                      </div>
-                      <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-0649b09" data-id="0649b09" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-c35f8e4 elementor-widget elementor-widget-counter" data-id="c35f8e4" data-element_type="widget" data-widget_type="counter.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-counter">
-                                     <div class="elementor-counter-number-wrapper"> <span class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number" data-duration="2000" data-to-value="2400" data-from-value="0" data-delimiter=".">0</span> <span class="elementor-counter-number-suffix">+</span></div>
-                                     <div class="elementor-counter-title">Projects</div>
-                                  </div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-e328b4f" data-id="e328b4f" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-78bca44 elementor-widget elementor-widget-counter" data-id="78bca44" data-element_type="widget" data-widget_type="counter.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-counter">
-                                     <div class="elementor-counter-number-wrapper"> <span class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number" data-duration="2000" data-to-value="28" data-from-value="0" data-delimiter=",">0</span> <span class="elementor-counter-number-suffix"></span></div>
-                                     <div class="elementor-counter-title">Years of Experience</div>
-                                  </div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-225e37d" data-id="225e37d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-cea201e elementor-widget elementor-widget-counter" data-id="cea201e" data-element_type="widget" data-widget_type="counter.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-counter">
-                                     <div class="elementor-counter-number-wrapper"> <span class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number" data-duration="2000" data-to-value="854" data-from-value="0" data-delimiter=",">0</span> <span class="elementor-counter-number-suffix"></span></div>
-                                     <div class="elementor-counter-title">Happy Clients</div>
-                                  </div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-75c8071" data-id="75c8071" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                         <div class="elementor-widget-wrap elementor-element-populated">
-                            <div class="elementor-element elementor-element-5d5bbcc elementor-widget elementor-widget-counter" data-id="5d5bbcc" data-element_type="widget" data-widget_type="counter.default">
-                               <div class="elementor-widget-container">
-                                  <div class="elementor-counter">
-                                     <div class="elementor-counter-number-wrapper"> <span class="elementor-counter-number-prefix"></span> <span class="elementor-counter-number" data-duration="2000" data-to-value="14" data-from-value="0" data-delimiter=",">0</span> <span class="elementor-counter-number-suffix"></span></div>
-                                     <div class="elementor-counter-title">Quality Certificates</div>
-                                  </div>
-                               </div>
-                            </div>
-                         </div>
-                      </div>
-                      <div class="elementor-column elementor-col-16 elementor-inner-column elementor-element elementor-element-1ab1982 elementor-hidden-tablet elementor-hidden-mobile" data-id="1ab1982" data-element_type="column">
-                         <div class="elementor-widget-wrap"></div>
-                      </div>
-                   </div>
-                </section>
+
              </div>
           </div>
        </div>
