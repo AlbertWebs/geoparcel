@@ -1,6 +1,6 @@
 <div id="footer">
     <div class="clearfix"></div>
-    <div class="tmnf_container">
+    <div class="tmnf_container" >
        <div class="tmnf_foocol first">
         {{-- <img width="100" class="footer_img tranz" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Home"/> --}}
           <h4 class="widget tmnf_border small_title">GeoParcel Surveyors.</h4>
@@ -39,16 +39,16 @@
        </div>
     </div>
     <div class="clearfix"></div>
-    <div class="bottom_line tmnf_border">
+    <div class="bottom_line tmnf_border" style="background-color:#034567">
        <div class="tmnf_container">
           <div class="tmnf_column tmnf_column_5">
-             <div class="footer_credits">Copyright © {{date('Y')}} - Geoparcel Surveyors Limited All Rights Reserved</div>
+             <div class="footer_credits" style="color:#ffffff">Copyright © {{date('Y')}} - Geoparcel Surveyors Limited All Rights Reserved</div>
           </div>
           <div class="tmnf_column tmnf_column_7">
              <ul class="tmnf_social_icons tranz">
-                <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
-                <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
-                <li class="tmnf_facebook"><a href="index.html#"><i class="fab fa-facebook"></i><span>Facebook</span></a></li>
+                <li class="tmnf_twitter"><a style="color:#ffffff" class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span style="color:#ffffff">Twitter</span></a></li>
+                <li class="tmnf_linkedin"><a style="color:#ffffff" class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span style="color:#ffffff">LinkedIn</span></a></li>
+                <li class="tmnf_facebook"><a style="color:#ffffff" href="index.html#"><i class="fab fa-facebook"></i><span style="color:#ffffff">Facebook</span></a></li>
              </ul>
           </div>
        </div>
