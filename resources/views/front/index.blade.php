@@ -304,7 +304,7 @@
                                                  <a href="on-our-side-the-fire-had-done-no-more-than-scorch-the-nearer-trees/index.html">
                                                     <img loading="lazy" width="540" height="640" src="{{asset('geopoint/wp-content/uploads/2022/03/surveying-3035404_1920-540x640.jpg')}}" class="tmnf_tranz blogger_img wp-post-image" alt="" decoding="async" />
                                                 </a>
-                                                 <p class="tmnf_meta tmnf_meta_categs featured_category_color resources_category_color  "> <span class="categs"><a href="category/featured/index.html" rel="category tag">Featured</a> • <a href="category/resources/index.html" rel="category tag">Resources</a></span></p>
+                                                 <p class="tmnf_meta tmnf_meta_categs featured_category_color resources_category_color  "> <span class="categs"><a style="color:#ffffff" href="#" rel="category tag">Featured</a> • <a style="color:#ffffff" href="#" rel="category tag">Resources</a></span></p>
                                               </div>
                                               <div class="item_inn">
                                                  <div class="clearfix"></div>
