@@ -9,7 +9,8 @@
                    <nav id="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement" role="navigation" aria-label="Main Menu">
                       <ul id="main-nav" class="nav" role="menubar">
                          <li id="menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 current_page_item menu-item-4289"><a href="{{url('/')}}">Home</a></li>
-                         <li id="menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4079 menu-item-4289"><a href="{{url('/')}}/the-company">About Us</a></li>
+                         <li id="menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-4079 menu-item-4289"><a href="{{url('/')}}/the-company">About Us</a></li>
+                         <li id="menu-item-4289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home  page_item page-item-4079 menu-item-4289"><a onclick="alert('Work in Progress')" href="#">Portfolio</a></li>
 
                          <li id="menu-item-4413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4413" aria-haspopup="true" role="menuitem" aria-expanded="false" tabindex="0">
                             <a href="#">Services</a>
