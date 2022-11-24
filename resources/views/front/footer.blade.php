@@ -22,10 +22,10 @@
           <h4 class="widget tmnf_border small_title">Services</h4>
           <ul>
 
-             <li class="cat-item cat-item-14"><a href="category/land-survey/index.html">Land Survey</a></li>
-             <li class="cat-item cat-item-8"><a href="category/photos/index.html">Photos</a></li>
-             <li class="cat-item cat-item-2"><a href="category/resources/index.html">Resources</a></li>
-             <li class="cat-item cat-item-11"><a href="category/topographic-mapping/index.html">Topographic Mapping</a></li>
+             <li class="cat-item cat-item-14"><a href="#">Land/Property Survey</a></li>
+             <li class="cat-item cat-item-8"><a href="#">Setting Out</a></li>
+             <li class="cat-item cat-item-2"><a href="#">Topographic Survey</a></li>
+
           </ul>
        </div>
        <div class="tmnf_foocol last">
