@@ -221,7 +221,7 @@
                                  <div class="elementor-icon-box-wrapper">
                                     <div class="elementor-icon-box-icon"> <span class="elementor-icon elementor-animation-" > <i aria-hidden="true" class="far fa-envelope-open"></i> </span></div>
                                     <div class="elementor-icon-box-content">
-                                       <p class="elementor-icon-box-title"> <span  > hello@geoparcelsurveys.com </span></p>
+                                       <p class="elementor-icon-box-title"> <span  > info@geoparcelsurveys.com </span></p>
                                        <p class="elementor-icon-box-description"> Don’t hesitate and write us. This is the general email.</p>
                                     </div>
                                  </div>

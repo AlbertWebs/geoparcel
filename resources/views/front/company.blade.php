@@ -147,7 +147,7 @@
                 <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> Upperhill Garden,3rd Ngong Avenue</h2>
                 <ul id="add-nav" class="nav">
                     <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 705 192 693"><i class="fas fa-phone-square-alt"></i> +254 705 192 693</a></li>
-                    <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> hello@geoparcelsurveys.com</a></li>
+                    <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> info@geoparcelsurveys.com</a></li>
                 </ul>
                 <div class="clearfix"></div>
               </div>
