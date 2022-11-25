@@ -1,4 +1,4 @@
-<div class="will_stick_wrap">
+<div class="will_stick_wrap" id="navbar">
     <div class="tmnf_header_row tmnf_border tmnf_menu_row will_stick">
        <div class="tmnf_container tmnf_container_head">
           <div class="tmnf_column tmnf_column_12">
