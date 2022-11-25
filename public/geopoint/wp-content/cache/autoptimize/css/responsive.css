@@ -18,4 +18,9 @@
     .elementor-icon-box-description{
         font-size: 12px !important;
     }
+    .elementor-4079 .elementor-element.elementor-element-c3bcf4f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap, .elementor-4079 .elementor-element.elementor-element-c3bcf4f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image:none
+    }
+
 }
+

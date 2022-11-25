@@ -1,6 +1,6 @@
-<div id="footer">
+<div id="footer" style="background-color:#9bb9ca">
     <div class="clearfix"></div>
-    <div class="tmnf_container" >
+    <div class="tmnf_container"  >
        <div class="tmnf_foocol first">
         {{-- <img width="100" class="footer_img tranz" src="{{asset('geopoint/wp-content/uploads/2022/03/geo-parcel.png')}}" alt="Home"/> --}}
           <h4 class="widget tmnf_border small_title">GeoParcel Surveys.</h4>
