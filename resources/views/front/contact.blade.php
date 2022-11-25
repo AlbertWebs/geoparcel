@@ -8,7 +8,7 @@
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_461276753cd2c76b20ca549c56a3b9dc.css')}}" rel="stylesheet" />
-      <title>Contact Us | GeoParcel Surveyors Limited</title>
+      <title>Contact Us | GeoParcel Surveys Limited</title>
 
       <link rel='stylesheet' id='elementor-post-7-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_4f865a00ffd3d82ce4476d03c33d5dc82e23.css?ver=1668358455')}}" type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-848-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_586cfbe7c7325a7cd257467d8765e3732d22.css?ver=1668573529')}}" type='text/css' media='all' />
@@ -292,8 +292,8 @@
                                  <div class="elementor-custom-embed">
                                     <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
                                         src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.277519149899!2d36.8222851!3d-1.2821533!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb39310a139138d6!2sDesignekta%20Studios!5e0!3m2!1sen!2ske!4v1669116632038!5m2!1sen!2ske"
-                                        title="Geoparcel Surveyors Limited"
-                                        aria-label="Geoparcel Surveyors Limited">
+                                        title="GeoParcel Surveys Limited"
+                                        aria-label="GeoParcel Surveys Limited">
                                     </iframe>
                                 </div>
                               </div>

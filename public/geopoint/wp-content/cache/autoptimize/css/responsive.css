@@ -1,0 +1,21 @@
+@media(max-width:1424px)
+{
+    .elementor-icon-box-title span
+    {
+        font-size: 15px;
+    }
+    .elementor-icon-box-description{
+        font-size: 14px !important;
+    }
+}
+
+@media(max-width:1024px)
+{
+    .elementor-icon-box-title span
+    {
+        font-size: 13px;
+    }
+    .elementor-icon-box-description{
+        font-size: 12px !important;
+    }
+}

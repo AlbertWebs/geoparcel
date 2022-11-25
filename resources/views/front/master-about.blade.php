@@ -202,9 +202,9 @@
                <div class="clearfix"></div>
                <div class="tmnf_container">
                   <div class="tmnf_foocol first">
-                     <h4 class="widget tmnf_border small_title">GeoParcel Surveyors.</h4>
+                     <h4 class="widget tmnf_border small_title">GeoParcel Surveys.</h4>
                      <div class="textwidget">
-                        <p>GeoParcel Surveyors. routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.<br /> The highest quality, most accurate &amp; precise land surveying services.</p>
+                        <p>GeoParcel Surveys. routinely provides surveying solutions for business, real estate, land development and civil engineering in Boise area.<br /> The highest quality, most accurate &amp; precise land surveying services.</p>
                      </div>
                      {{-- <form role="search" class="searchform" method="get" action="http://themestate.com/demo/geopoint/"> <label for="search-form-637c692f17862"> <span class="screen-reader-text">Search for:</span> </label> <input id="search-form-637c692f17862"  type="text" name="s" class="s p-border" size="30" value="Search..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /> <button class='searchSubmit ribbon' ><i class="fas fa-search"></i></button></form> --}}
                   </div>
@@ -241,7 +241,7 @@
                <div class="bottom_line tmnf_border">
                   <div class="tmnf_container">
                      <div class="tmnf_column tmnf_column_4">
-                        <div class="footer_credits">Copyright © {{date('Y')}} - Geoparcel Surveyors</div>
+                        <div class="footer_credits">Copyright © {{date('Y')}} - GeoParcel Surveys</div>
                      </div>
                      <div class="tmnf_column tmnf_column_8">
                         <ul class="tmnf_social_icons tranz">

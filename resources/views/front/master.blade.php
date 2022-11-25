@@ -9,13 +9,14 @@
       <meta name="viewport" content="width=device-width, initial-scale=1" />
       <link rel="pingback" href="xmlrpc.php" />
       <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_e2b97ae2cf246a149e3016f5618656ac.css')}}" rel="stylesheet" />
-      <title>GeoParcel Surveyors Limited - Professional Land Surveying</title>
+      <title>GeoParcel Surveys Limited - Professional Land Surveying</title>
       <meta name='robots' content='max-image-preview:large' />
       <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
       <link rel='preconnect' href='https://fonts.gstatic.com/' crossorigin />
 
       <link rel='stylesheet' id='elementor-post-7-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_4f865a00ffd3d82ce4476d03c33d5dc82e23.css')}}" type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-4079-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_b4bc035ea49c9ce1986c7dbdc1976e0d2e23.css')}}" type='text/css' media='all' />
+      <link rel='stylesheet' id='elementor-post-4079-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/responsive.css')}}" type='text/css' media='all' />
       <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" />
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" media="print" onload="this.media='all'">
       <noscript>
