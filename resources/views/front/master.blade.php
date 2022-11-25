@@ -1,12 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
-
-
-   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-
    <head>
       <meta charset="UTF-8">
       <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
       <link rel="pingback" href="xmlrpc.php" />
       <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_e2b97ae2cf246a149e3016f5618656ac.css')}}" rel="stylesheet" />
       <title>GeoParcel Surveys Limited - Professional Land Surveying</title>
@@ -17,6 +14,7 @@
       <link rel='stylesheet' id='elementor-post-7-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_4f865a00ffd3d82ce4476d03c33d5dc82e23.css')}}" type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-4079-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_single_b4bc035ea49c9ce1986c7dbdc1976e0d2e23.css')}}" type='text/css' media='all' />
       <link rel='stylesheet' id='elementor-post-4079-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/responsive.css')}}" type='text/css' media='all' />
+      <link rel='stylesheet' id='elementor-post-4079-css' href="{{asset('geopoint/wp-content/cache/autoptimize/css/style.css')}}" type='text/css' media='all' />
       <link rel="preload" as="style" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" />
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" media="print" onload="this.media='all'">
       <noscript>
@@ -192,6 +190,8 @@
                   <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span>Twitter</span></a></li>
                   <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
                   <li class="tmnf_facebook"><a href="index.html#"><i class="fab fa-facebook"></i><span>Facebook</span></a></li>
+                  <li class="tmnf_pinterest"><a href="index.html#"><i class="fab fa-pinterest"></i><span>Pinterest</span></a></li>
+                  <li class="tmnf_instagram"><a href="index.html#"><i class="fab fa-instagram"></i><span>Instagram</span></a></li>
                </ul>
                <h6>Professional Land Surveying</h6>
             </div>
