@@ -402,6 +402,11 @@ a:hover{color:#451812}a:active{color:#000}.tmnf_entry p a,.tmnf_entry ol a,.tmnf
     width: 93%;
 }
 
+#topnav.playMeErase {
+    display: none;
+    transition: all 0.3s ease-in-out;
+}
+
 @media screen and (max-width: 960px) {
     #header {
         width: 100%;
