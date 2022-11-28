@@ -132,7 +132,24 @@
                                     </div>
                                     <div class="elementor-element elementor-element-ba0b185 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="ba0b185" data-element_type="widget" data-widget_type="social-icons.default">
                                        <div class="elementor-widget-container">
-                                          <div class="elementor-social-icons-wrapper elementor-grid"> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-e51e4d2" target="_blank"> <span class="elementor-screen-only">Twitter</span> <i class="fab fa-twitter"></i> </a> </span> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-f2203b8" target="_blank"> <span class="elementor-screen-only">Facebook</span> <i class="fab fa-facebook"></i> </a> </span> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-dfcbaf5" target="_blank"> <span class="elementor-screen-only">Linkedin</span> <i class="fab fa-linkedin"></i> </a> </span></div>
+                                          <div class="elementor-social-icons-wrapper elementor-grid">
+                                            <span class="elementor-grid-item">
+                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-e51e4d2" target="_blank">
+                                                    <span class="elementor-screen-only">Twitter</span>
+                                                    <i class="fab fa-twitter"></i>
+                                                </a>
+                                            </span>
+                                             <span class="elementor-grid-item">
+                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-f2203b8" target="_blank">
+                                                    <span class="elementor-screen-only">Facebook</span>
+                                                     <i class="fab fa-facebook"></i> </a>
+                                                    </span> <span class="elementor-grid-item">
+                                                <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-dfcbaf5" target="_blank">
+                                                     <span class="elementor-screen-only">Linkedin</span>
+                                                      <i class="fab fa-linkedin"></i>
+                                                </a>
+                                            </span>
+                                        </div>
                                        </div>
                                     </div>
                                  </div>
@@ -170,11 +187,28 @@
                                     <div class="elementor-element elementor-element-fcfb8ac elementor-widget elementor-widget-image" data-id="fcfb8ac" data-element_type="widget" data-widget_type="image.default">
                                        <div class="elementor-widget-container"> <img decoding="async" width="590" height="590" src="{{asset('geopoint/wp-content/uploads/147142.png')}}" class="attachment-large size-large" alt="" loading="lazy" srcset="{{asset('geopoint/wp-content/uploads/147142.png')}}" sizes="(max-width: 590px) 100vw, 590px" /></div>
                                     </div>
-                                    <div class="elementor-element elementor-element-e15a244 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="e15a244" data-element_type="widget" data-widget_type="social-icons.default">
-                                       <div class="elementor-widget-container">
-                                          <div class="elementor-social-icons-wrapper elementor-grid"> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-dfcbaf5" target="_blank"> <span class="elementor-screen-only">Youtube</span> <i class="fab fa-youtube"></i> </a> </span> <span class="elementor-grid-item"> <a class="elementor-icon elementor-social-icon elementor-social-icon-xing elementor-repeater-item-3912c58" target="_blank"> <span class="elementor-screen-only">Xing</span> <i class="fab fa-xing"></i> </a> </span></div>
-                                       </div>
-                                    </div>
+                                    <div class="elementor-element elementor-element-ba0b185 e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="ba0b185" data-element_type="widget" data-widget_type="social-icons.default">
+                                        <div class="elementor-widget-container">
+                                           <div class="elementor-social-icons-wrapper elementor-grid">
+                                             <span class="elementor-grid-item">
+                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-e51e4d2" target="_blank">
+                                                     <span class="elementor-screen-only">Twitter</span>
+                                                     <i class="fab fa-twitter"></i>
+                                                 </a>
+                                             </span>
+                                              <span class="elementor-grid-item">
+                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-repeater-item-f2203b8" target="_blank">
+                                                     <span class="elementor-screen-only">Facebook</span>
+                                                      <i class="fab fa-facebook"></i> </a>
+                                                     </span> <span class="elementor-grid-item">
+                                                 <a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-repeater-item-dfcbaf5" target="_blank">
+                                                      <span class="elementor-screen-only">Linkedin</span>
+                                                       <i class="fab fa-linkedin"></i>
+                                                 </a>
+                                             </span>
+                                         </div>
+                                        </div>
+                                     </div>
                                  </div>
                               </div>
                               <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-817a9ad" data-id="817a9ad" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
