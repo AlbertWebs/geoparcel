@@ -29,8 +29,10 @@
                                     <div class="elementor-element elementor-element-69fb567 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
                                         data-id="69fb567" data-element_type="widget" data-widget_type="divider.default">
                                         <div class="elementor-widget-container">
-                                            <div class="elementor-divider"> <span
-                                                    class="elementor-divider-separator"></span></div>
+                                            {{-- <div class="elementor-divider">
+                                                <span class="elementor-divider-separator">
+                                                </span>
+                                            </div> --}}
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-9bab5ff elementor-widget elementor-widget-text-editor"
@@ -207,8 +209,10 @@
                                     <div class="elementor-element elementor-element-847bfdf elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
                                         data-id="847bfdf" data-element_type="widget" data-widget_type="divider.default">
                                         <div class="elementor-widget-container">
-                                            <div class="elementor-divider"> <span class="elementor-divider-separator">
-                                                </span></div>
+                                            <div class="elementor-divider">
+                                                <span class="elementor-divider-separator">
+                                                </span>
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-a1b3e2c elementor-widget elementor-widget-text-editor"

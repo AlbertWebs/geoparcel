@@ -12,3 +12,7 @@
   .sticky + .content {
     padding-top: 60px;
   }
+#mainPara{
+    max-width:600px;
+    min-height: 180px;
+}
