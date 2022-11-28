@@ -28,7 +28,7 @@
 
 .arrow-right-right {
     position: absolute;
-    top: 50%;
+    top: 98%;
     right: 10%;
 
     border: 1px solid lightgray;
@@ -40,7 +40,7 @@
     justify-content: center;
 
     transition: all 0.3s ease-in-out;
-    display: none;
+    /* display: none; */
 }
 
 .arrow-right-right:hover {
@@ -51,7 +51,7 @@
 
 .arrow-left-left {
     position: absolute;
-    top: 50%;
+    top: 98%;
     left: 10%;
 
     border: 1px solid lightgray;
@@ -62,7 +62,7 @@
     align-items: center;
     justify-content: center;
     transition: all 0.3s ease-in-out;
-    display: none;
+    /* display: none; */
 }
 
 .arrow-left-left:hover {

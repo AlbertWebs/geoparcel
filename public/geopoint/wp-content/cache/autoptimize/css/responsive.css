@@ -1,0 +1,32 @@
+@media(max-width:1424px)
+{
+    .elementor-icon-box-title span
+    {
+        font-size: 15px;
+    }
+    .elementor-icon-box-description{
+        font-size: 14px !important;
+    }
+    .arrow-right-right {
+        display: none;
+    }
+    .arrow-left-left {
+        display: none;
+    }
+}
+
+@media(max-width:1024px)
+{
+    .elementor-icon-box-title span
+    {
+        font-size: 13px;
+    }
+    .elementor-icon-box-description{
+        font-size: 12px !important;
+    }
+    .elementor-4079 .elementor-element.elementor-element-c3bcf4f:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap, .elementor-4079 .elementor-element.elementor-element-c3bcf4f>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+        background-image:none
+    }
+
+}
+
