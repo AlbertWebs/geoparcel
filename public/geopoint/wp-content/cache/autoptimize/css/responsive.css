@@ -10,12 +10,7 @@
     .elementor-icon-box-description{
         font-size: 14px !important;
     }
-    .arrow-right-right {
-        display: none;
-    }
-    .arrow-left-left {
-        display: none;
-    }
+
     #mainHeading{
         height: 80px;
     }
@@ -34,6 +29,12 @@
         background-image:none
     }
 
+    .arrow-right-right {
+        display: none;
+    }
+    .arrow-left-left {
+        display: none;
+    }
 }
 
 
