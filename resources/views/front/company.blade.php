@@ -165,11 +165,11 @@
                                     </div>
                                     <div class="elementor-element elementor-element-4b0a866 elementor-widget elementor-widget-heading" data-id="4b0a866" data-element_type="widget" data-widget_type="heading.default">
                                        <div class="elementor-widget-container">
-                                          <p class="elementor-heading-title elementor-size-default">Directors</p>
+                                          <p class="elementor-heading-title elementor-size-default">Directors Land Information Management and Advocacy</p>
                                        </div>
                                     </div>
                                     <div class="elementor-element elementor-element-d5ce10d elementor-widget elementor-widget-text-editor" data-id="d5ce10d" data-element_type="widget" data-widget_type="text-editor.default">
-                                       <div class="elementor-widget-container"> We are know taking the opportunity to evolve our brand in order to better communicate the
+                                       <div class="elementor-widget-container"> We are now taking the opportunity to evolve our brand in order to better communicate the
                                         breadth of expertise that GEOPARCEL SURVEYS LIMITED truly represents and realign with
                                         our refined value proposition and Vision</div>
                                     </div>
@@ -222,7 +222,7 @@
                                     </div>
                                     <div class="elementor-element elementor-element-59a9f29 elementor-widget elementor-widget-heading" data-id="59a9f29" data-element_type="widget" data-widget_type="heading.default">
                                        <div class="elementor-widget-container">
-                                          <p class="elementor-heading-title elementor-size-default">Senior Manager</p>
+                                          <p class="elementor-heading-title elementor-size-default">Technical Director</p>
                                        </div>
                                     </div>
                                     <div class="elementor-element elementor-element-ad3f7e9 elementor-widget elementor-widget-text-editor" data-id="ad3f7e9" data-element_type="widget" data-widget_type="text-editor.default">
