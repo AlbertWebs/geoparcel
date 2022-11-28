@@ -89,7 +89,7 @@
                                                     <p class="elementor-icon-box-title"> <span>
                                                             info@geoparcelsurveys.com </span></p>
                                                     <p class="elementor-icon-box-description"> Don’t hesitate and write
-                                                        us. This is the general email.</p>
+                                                        us. This is the official email.</p>
                                                 </div>
                                             </div>
                                         </div>
