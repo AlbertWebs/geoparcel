@@ -148,32 +148,65 @@
         }
 
 
+        setInterval(() => {
+            counterScript++;
+
+            if(counterScript === 3) {
+                counterScript = 0;
+            }
+
+            if(counterScript === 0) {
+                rigi.classList.remove('stima-background2')
+                rigi.classList.add("stima-background0");
+                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+                mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate information is delivered";
+            }
+
+            if(counterScript === 1) {
+                rigi.classList.remove('stima-background0')
+                rigi.classList.add("stima-background1")
+                mainSomething.innerHTML = "SETTING OUT";
+                mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
+            }
+
+            if(counterScript === 2) {
+                rigi.classList.remove('stima-background1')
+                rigi.classList.add("stima-background2")
+                mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
+                mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
+            }
+        }, 10000);
+
+
+
+
         function changeBackgroundRight() {
            counterScript += 1;
+
            if(counterScript > 2) {
             counterScript = 0;
            }
 
-        if(counterScript === 0) {
-            rigi.classList.remove('stima-background2')
-            rigi.classList.add("stima-background0");
-            mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
-            mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
-        }
+            if(counterScript === 0) {
+                rigi.classList.remove('stima-background2')
+                rigi.classList.add("stima-background0");
+                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+                mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
+            }
 
-        if(counterScript === 1) {
-            rigi.classList.remove('stima-background0')
-            rigi.classList.add("stima-background1")
-            mainSomething.innerHTML = "SETTING OUT";
-            mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
-        }
+            if(counterScript === 1) {
+                rigi.classList.remove('stima-background0')
+                rigi.classList.add("stima-background1")
+                mainSomething.innerHTML = "SETTING OUT";
+                mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
+            }
 
-        if(counterScript === 2) {
-            rigi.classList.remove('stima-background1')
-            rigi.classList.add("stima-background2")
-            mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
-            mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
-        }
+            if(counterScript === 2) {
+                rigi.classList.remove('stima-background1')
+                rigi.classList.add("stima-background2")
+                mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
+                mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
+            }
 
         }
 

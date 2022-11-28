@@ -41,6 +41,7 @@
 
     transition: all 0.3s ease-in-out;
     display: none;
+    z-index: 2;
 }
 
 .arrow-right-right:hover {
@@ -63,6 +64,7 @@
     justify-content: center;
     transition: all 0.3s ease-in-out;
     display: none;
+    z-index: 2;
 }
 
 .arrow-left-left:hover {
