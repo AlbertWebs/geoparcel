@@ -7,6 +7,7 @@ use Artesaos\SEOTools\Facades\SEOMeta;
 use Artesaos\SEOTools\Facades\OpenGraph;
 use Artesaos\SEOTools\Facades\TwitterCard;
 use Artesaos\SEOTools\Facades\JsonLd;
+use DB;
 
 class HomeController extends Controller
 {
@@ -41,14 +42,18 @@ class HomeController extends Controller
         return view('front.company',compact('title','url','page','keywords'));
     }
 
-    public function services()
+    public function services($slung)
     {
-        $title = "Services - Geoparcel Surveyors Limited";
-        $url = url('/the-company');
-        $page = "service";
-        $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
-        Job Evaluations, Analysis, Grading and Benchmarking, Employee Selection & Placement , Training";
-        return view('front.services',compact('title','url','page','keywords'));
+        $Services = DB::table('services')->where('slung', $slung)->get();
+        foreach ($Services as $key => $value) {
+            $title = "$value->title - Geoparcel Surveyors Limited";
+            $url = url('/the-company');
+            $page = "service";
+            $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
+            Job Evaluations, Analysis, Grading and Benchmarking, Employee Selection & Placement , Training";
+            return view('front.services',compact('title','url','page','keywords'));
+        }
+
     }
 
     public function sector()

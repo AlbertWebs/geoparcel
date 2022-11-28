@@ -15,9 +15,11 @@
                          <li id="menu-item-4413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4413" aria-haspopup="true" role="menuitem" aria-expanded="false" tabindex="0">
                             <a href="#">Services</a>
                             <ul class="sub-menu">
-                               <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a style="color:#ffffff" href="#">Land/Property Survey</a></li>
-                               <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a style="color:#ffffff" href="#">Setting Out</a></li>
-                               <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a style="color:#ffffff" href="#">Topographic Survey</a></li>
+                                <?php $Services = DB::table('services')->get(); ?>
+                                @foreach ($Services as $item)
+                                <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a style="color:#ffffff" href="{{url('/')}}/services/{{$item->slung}}">{{$item->title}}</a></li>
+                                @endforeach
+
                             </ul>
                          </li>
                          <li id="menu-item-4266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4266"><a  href="{{url('/')}}/contact-us">Contact Us</a></li>
