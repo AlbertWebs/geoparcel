@@ -4,6 +4,10 @@
 .menu-anchor{
     color:#ffffff !important;
 }
+.gallery-img {
+    float:left !important;
+    padding:10px;
+}
 
 .nav>li>a, .header_icon a {
     font-family: Jost;

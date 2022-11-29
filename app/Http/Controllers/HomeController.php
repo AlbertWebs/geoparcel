@@ -78,6 +78,18 @@ class HomeController extends Controller
         return view('front.sector',compact('title','url','page','keywords'));
     }
 
+    public function gallery()
+    {
+        $title = "Gallery - Geoparcel Surveys Limited";
+        $url = url('/gallery');
+        $page = "sector";
+        $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
+        Job Evaluations, Analysis, Grading and Benchmarking, Employee Selection & Placement , Training";
+        return view('front.gallery',compact('title','url','page','keywords'));
+    }
+
+
+
     public function portfolio()
     {
         $title = "Portfolio - Geoparcel Surveys Limited";

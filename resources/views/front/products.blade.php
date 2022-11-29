@@ -113,12 +113,6 @@
                             {!! html_entity_decode($Ser->content) !!}
                         </div>
                       </div>
-                      {{--  --}}
-
-                      {{--  --}}
-
-
-
 
                     </div>
                   </div>

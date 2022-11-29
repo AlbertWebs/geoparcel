@@ -19,6 +19,7 @@ Route::get('/the-company', [App\Http\Controllers\HomeController::class, 'company
 Route::get('/the-sectors', [App\Http\Controllers\HomeController::class, 'sector'])->name('sector-page');
 Route::get('/services/{slung}', [App\Http\Controllers\HomeController::class, 'services'])->name('services-page');
 Route::get('/portfolio', [App\Http\Controllers\HomeController::class, 'portfolio'])->name('portfolio-page');
+Route::get('/gallery', [App\Http\Controllers\HomeController::class, 'gallery'])->name('gallery-page');
 
 Route::get('/services/slung', [App\Http\Controllers\HomeController::class, 'service'])->name('service-page');
 Route::get('/products/{slung}', [App\Http\Controllers\HomeController::class, 'product'])->name('products-page');
