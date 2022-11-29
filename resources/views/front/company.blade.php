@@ -68,6 +68,11 @@
                 <h1 class="post_title large_title">
                   <span itemprop="name">About Us</span>
                 </h1>
+                <p style="font-weight:800; color:#301428; max-width:800px;">
+                    Founded in June 2015 by a team of well experienced and self inspired Land Surveyor and Engineers;
+                    GEOPARCEL is one of the leading company in East Africa that offers solutions in geospatial, Topo
+                    surveys, Mapping, Cadastral Survey, Property Conveyancing among other sevices
+                </p>
               </div>
             </div>
           </div>
@@ -78,11 +83,7 @@
                 <div class="elementor-container elementor-column-gap-wide">
                   <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4a58a47" data-id="4a58a47" data-element_type="column">
                     <div class="elementor-widget-wrap elementor-element-populated">
-                      <div class="elementor-element elementor-element-efec7bf elementor-widget elementor-widget-heading" data-id="efec7bf" data-element_type="widget" data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                          <h4 class="elementor-heading-title elementor-size-default">We Provide <br>land surveying services </h4>
-                        </div>
-                      </div>
+
                       <div class="elementor-element elementor-element-1078c99 elementor-widget elementor-widget-heading" data-id="1078c99" data-element_type="widget" data-widget_type="heading.default">
                         <div class="elementor-widget-container">
                           <h2 class="elementor-heading-title elementor-size-xl">Professional Survey Services</h2>
@@ -111,7 +112,7 @@
                     <div class="elementor-widget-wrap elementor-element-populated">
                       <div class="elementor-element elementor-element-a50f02c elementor-widget elementor-widget-image" data-id="a50f02c" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
-                          <img decoding="async" src="{{asset('geopoint/wp-content/uploads/valeria-fursa-zSrksQgp4W0-unsplash-geo-parcel.jpg')}}" title="image-from-rawpixel-id-3805837-jpeg" alt="image-from-rawpixel-id-3805837-jpeg" />
+                          <img style="border-radius:10px;" decoding="async" src="{{asset('geopoint/wp-content/uploads/valeria-fursa-zSrksQgp4W0-unsplash-geo-parcel.jpg')}}" title="image-from-rawpixel-id-3805837-jpeg" alt="image-from-rawpixel-id-3805837-jpeg" />
                         </div>
                       </div>
                     </div>
