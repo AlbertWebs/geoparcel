@@ -32,10 +32,10 @@
        <div class="tmnf_foocol last">
           <h4 class="widget tmnf_border small_title">Quick Links</h4>
           <ul>
-             <li><a href="wp-login.html">Sitemap</a></li>
-             <li><a href="#">Terms and Conditions</a></li>
-             <li><a href="#">Privacy Policy</a></li>
-             <li><a href="#">Copyright Statement</a></li>
+             <li><a href="#">Sitemap</a></li>
+             <li><a href="{{url('/')}}/terms-and-conditions">Terms and Conditions</a></li>
+             <li><a href="{{url('/')}}/privacy-policy">Privacy Policy</a></li>
+             <li><a href="{{url('/')}}/copyright-statement">Copyright Statement</a></li>
           </ul>
        </div>
     </div>
