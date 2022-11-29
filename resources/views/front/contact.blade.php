@@ -24,6 +24,9 @@
       <link rel='stylesheet' id='elementor-post-4079-css'
       href="{{asset('geopoint/wp-content/cache/autoptimize/css/responsive.css')}}" type='text/css' media='all' />
 
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+      integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+      crossorigin="anonymous" referrerpolicy="no-referrer" />
 
    </head>
    <body class="page-template page-template-template-fullwidth-alt page-template-template-fullwidth-alt-php page page-id-848 page-child parent-pageid-892 wp-embed-responsive wp-featherlight-captions elementor-default elementor-kit-7 elementor-page elementor-page-848">
@@ -189,6 +192,22 @@
                </div>
             </div>
             @include('front.footer')
+            <div class="site_offset">
+                <ul class="tmnf_social_icons tranz">
+                    <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i
+                                class="fab fa-twitter"></i><span>Twitter</span></a></li>
+                    <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i
+                                class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
+                    <li class="tmnf_facebook"><a href="index.html#"><i
+                                class="fab fa-facebook"></i><span>Facebook</span></a></li>
+                    <li class="tmnf_pinterest"><a href="index.html#"><i
+                                class="fab fa-pinterest"></i><span>Pinterest</span></a></li>
+                    <li class="tmnf_instagram"><a href="index.html#"><i
+                                class="fab fa-instagram"></i><span>Instagram</span></a></li>
+                </ul>
+                <h6>Professional Land Surveying</h6>
+            </div>
+
 
 
             <div class="scroll_to_top ribbon"> <a title="Scroll to top" class="rad" href="#">&uarr;</a></div>
