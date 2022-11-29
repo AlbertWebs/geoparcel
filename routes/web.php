@@ -21,6 +21,7 @@ Route::get('/services/{slung}', [App\Http\Controllers\HomeController::class, 'se
 Route::get('/portfolio', [App\Http\Controllers\HomeController::class, 'portfolio'])->name('portfolio-page');
 
 Route::get('/services/slung', [App\Http\Controllers\HomeController::class, 'service'])->name('service-page');
+Route::get('/products/{slung}', [App\Http\Controllers\HomeController::class, 'product'])->name('products-page');
 
 Route::get('/copyright-statement', [App\Http\Controllers\HomeController::class, 'copyright'])->name('copyright-page');
 Route::get('/terms-and-conditions', [App\Http\Controllers\HomeController::class, 'terms'])->name('terms-page');

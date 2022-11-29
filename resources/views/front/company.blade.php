@@ -10,9 +10,9 @@
     <link rel="pingback" href="../../xmlrpc.php" />
     <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_7f0f0b4c261ec403c958f935316adba8.css')}}" rel="stylesheet" />
     <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_32d6030c007c8a96e172a797b6b7bb0e.css')}}" rel="stylesheet" />
-    <link media="all"
+    {{-- <link media="all"
     href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_e2b97ae2cf246a149e3016f5618656ac.css')}}"
-    rel="stylesheet" />
+    rel="stylesheet" /> --}}
     <title>About Us &#8211; Geopoint</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />

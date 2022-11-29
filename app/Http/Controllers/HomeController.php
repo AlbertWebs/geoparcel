@@ -14,7 +14,7 @@ class HomeController extends Controller
 
     public function index()
     {
-        $title = "Geoparcel Surveyors Limited - Human Resource Consultancy";
+        $title = "Geoparcel Surveys Limited - Human Resource Consultancy";
         $url = url('/');
         $page = "home";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
@@ -24,7 +24,7 @@ class HomeController extends Controller
 
     public function contact()
     {
-        $title = "Contact Us - Geoparcel Surveyors Limited";
+        $title = "Contact Us - Geoparcel Surveys Limited";
         $url = url('/the-company');
         $page = "contact";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
@@ -34,7 +34,7 @@ class HomeController extends Controller
 
     public function company()
     {
-        $title = "The Company - Geoparcel Surveyors Limited";
+        $title = "The Company - Geoparcel Surveys Limited";
         $url = url('/');
         $page = "company";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
@@ -46,19 +46,31 @@ class HomeController extends Controller
     {
         $Services = DB::table('services')->where('slung', $slung)->get();
         foreach ($Services as $key => $value) {
-            $title = "$value->title - Geoparcel Surveyors Limited";
+            $title = "$value->title - Geoparcel Surveys Limited";
             $url = url('/the-company');
             $page = "service";
             $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
             Job Evaluations, Analysis, Grading and Benchmarking, Employee Selection & Placement , Training";
-            return view('front.services',compact('title','url','page','keywords'));
+            return view('front.services',compact('title','url','page','keywords','Services'));
         }
+    }
 
+    public function product($slung)
+    {
+        $Services = DB::table('products')->where('slung', $slung)->get();
+        foreach ($Services as $key => $value) {
+            $title = "$value->title - Geoparcel Surveys Limited";
+            $url = url('/products');
+            $page = "service";
+            $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
+            Job Evaluations, Analysis, Grading and Benchmarking, Employee Selection & Placement , Training";
+            return view('front.products',compact('title','url','page','keywords','Services'));
+        }
     }
 
     public function sector()
     {
-        $title = "Sectors - Geoparcel Surveyors Limited";
+        $title = "Sectors - Geoparcel Surveys Limited";
         $url = url('/the-company');
         $page = "sector";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
@@ -68,7 +80,7 @@ class HomeController extends Controller
 
     public function portfolio()
     {
-        $title = "Portfolio - Geoparcel Surveyors Limited";
+        $title = "Portfolio - Geoparcel Surveys Limited";
         $url = url('/portfolio');
         $page = "portfolio";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
@@ -82,7 +94,7 @@ class HomeController extends Controller
 
     public function copyright()
     {
-        $title = "Copyrigh Statement - Geoparcel Surveyors Limited";
+        $title = "Copyrigh Statement - Geoparcel Surveys Limited";
         $url = url('/the-company');
         $page = "services";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
@@ -92,7 +104,7 @@ class HomeController extends Controller
 
     public function terms()
     {
-        $title = "Terms and Conditions - Geoparcel Surveyors Limited";
+        $title = "Terms and Conditions - Geoparcel Surveys Limited";
         $url = url('/the-company');
         $page = "services";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,
@@ -102,7 +114,7 @@ class HomeController extends Controller
 
     public function policy()
     {
-        $title = "Privacy Policy - Geoparcel Surveyors Limited";
+        $title = "Privacy Policy - Geoparcel Surveys Limited";
         $url = url('/the-company');
         $page = "services";
         $keywords = "Human Resource Solutions, Recruitment, Outsourcing, Selection and Placement,

@@ -68,7 +68,7 @@
                   <span class="crumb crumb_single">
                     <a href="{{url('/')}}/the-company">The Company</a>
                   </span>
-                  <span class="crumb">Services</span>
+                  <span class="crumb">Products</span>
                   <span class="crumb">{{$title}}</span>
                 </div>
                 <h1 class="post_title large_title">
