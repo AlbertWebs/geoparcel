@@ -47,7 +47,7 @@
     <link rel='stylesheet' id='elementor-post-4079-css'
         href="{{asset('geopoint/wp-content/cache/autoptimize/css/style.css')}}" type='text/css' media='all' />
 
-    <link rel="stylesheet" type="text/css" href="{{ url('/css/style.css') }}" />
+    {{-- <link rel="stylesheet" type="text/css" href="{{ url('/css/style.css') }}" /> --}}
 
     <style>
 
@@ -133,97 +133,6 @@
         src="{{asset('geopoint/wp-content/cache/autoptimize/js/autoptimize_5b8e95f27b3e820f1b3d0fcb423675bd.js')}}">
     </script>
 
-    {{-- <script type="text/javascript">
-        // start of slider components
-        var counterScript = 0;
-
-        var rigi = document.querySelector('.elementor-4079');
-        var mainSomething = document.querySelector('#mainHeading');
-        var mainpara = document.querySelector('#mainPara');
-
-        if(counterScript === 0) {
-            rigi.classList.add("stima-background0");
-            mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
-            mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
-        }
-
-
-        function changeBackgroundRight() {
-           counterScript += 1;
-           if(counterScript > 2) {
-            counterScript = 0;
-           }
-
-        if(counterScript === 0) {
-            rigi.classList.remove('stima-background2')
-            rigi.classList.add("stima-background0");
-            mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
-            mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
-        }
-
-        if(counterScript === 1) {
-            rigi.classList.remove('stima-background0')
-            rigi.classList.add("stima-background1")
-            mainSomething.innerHTML = "SETTING OUT";
-            mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
-        }
-
-        if(counterScript === 2) {
-            rigi.classList.remove('stima-background1')
-            rigi.classList.add("stima-background2")
-            mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
-            mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
-        }
-
-        }
-
-        function changeBackgroundLeft() {
-           counterScript -= 1;
-
-           if(counterScript === -1) {
-            counterScript = 2;
-            rigi.classList.remove("stima-background0");
-           }
-
-           if(counterScript === 0) {
-                rigi.classList.remove('stima-background0')
-                rigi.classList.add("stima-background2");
-                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
-                mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
-            }
-
-            if(counterScript === 1) {
-                rigi.classList.remove('stima-background1')
-                rigi.classList.add("stima-background0")
-                mainSomething.innerHTML = "SETTING OUT";
-                mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
-            }
-
-            if(counterScript === 2) {
-                rigi.classList.remove('stima-background2')
-                rigi.classList.add("stima-background1")
-                mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
-                mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
-            }
-        }
-
-        // end of slider component
-
-
-
-        // Navbar styling
-        var AllLi = document.querySelector('#topnav');
-
-        AllLi(addEventListener('scroll', function changeMenuActive() {
-            if (window.scrollY > 10) {
-                AllLi.classList.add("playMeErase")
-            } else {
-                AllLi.classList.remove("playMeErase")
-            }
-        }));
-        // end
-
-    </script> --}}
     <script type="text/javascript">
         // start of slider components
         var counterScript = 0;
