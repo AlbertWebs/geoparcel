@@ -23,7 +23,9 @@
 
     <script type='text/javascript' src="{{asset('geopoint/wp-includes/js/jquery/jquery.mina7a0.js')}}" id='jquery-core-js'></script>
 
-
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
 
   </head>
   <body class="page-template page-template-template-fullwidth-alt page-template-template-fullwidth-alt-php page page-id-5175 page-child parent-pageid-892 wp-embed-responsive wp-featherlight-captions elementor-default elementor-kit-7 elementor-page elementor-page-5175">
@@ -78,6 +80,8 @@
           </div>
         </div>
         <div id="content_start" class="tmnf_anchor"></div>
+
+
         <div data-elementor-type="wp-page" data-elementor-id="5175" class="elementor elementor-5175">
             <section class="elementor-section elementor-top-section elementor-element elementor-element-0ac5f88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac5f88" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
                 <div class="elementor-container elementor-column-gap-wide">
@@ -86,7 +90,7 @@
 
                       <div class="elementor-element elementor-element-1078c99 elementor-widget elementor-widget-heading" data-id="1078c99" data-element_type="widget" data-widget_type="heading.default">
                         <div class="elementor-widget-container">
-                          <h2 class="elementor-heading-title elementor-size-xl">Professional Survey Services</h2>
+                          <h2 class="elementor-heading-title elementor-size-xl">Vision</h2>
                         </div>
                       </div>
                       <div class="elementor-element elementor-element-167d1a2 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-right elementor-view-default elementor-widget elementor-widget-divider" data-id="167d1a2" data-element_type="widget" data-widget_type="divider.default">
@@ -101,10 +105,57 @@
                         </div>
                       </div>
                       <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor" data-id="1acdcb4" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container"> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br> <br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br><br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries. <br><br> One way to check your property lines is to look at the deed of the property. As a legal document about your property, the deed should have a worded description of your land’s boundaries.</div>
+                        <div class="elementor-widget-container"> To be among the leading one full service surveying in Kenya and East Africa at large.</div>
+                      </div>
+                      {{--  --}}
+                      <div class="elementor-element elementor-element-1078c99 elementor-widget elementor-widget-heading" data-id="1078c99" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-xl">Mission</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-167d1a2 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-right elementor-view-default elementor-widget elementor-widget-divider" data-id="167d1a2" data-element_type="widget" data-widget_type="divider.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                              <div class="elementor-icon elementor-divider__element">
+                                <i aria-hidden="true" class="fas fa-square-full"></i>
+                              </div>
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor" data-id="1acdcb4" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container"> Working diligently for your security of tenure.</div>
+                      </div>
+                      {{--  --}}
+                      <div class="elementor-element elementor-element-1078c99 elementor-widget elementor-widget-heading" data-id="1078c99" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-xl">Our Policy</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-167d1a2 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-right elementor-view-default elementor-widget elementor-widget-divider" data-id="167d1a2" data-element_type="widget" data-widget_type="divider.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                              <div class="elementor-icon elementor-divider__element">
+                                <i aria-hidden="true" class="fas fa-square-full"></i>
+                              </div>
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor" data-id="1acdcb4" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container"> Geoparcel is a survey service provider in all aspects of conveyancing, survey and Property Mapping. We
+                            are committed to consistently provide quality results that meet our customers’ satisfaction among other
+                            applicable requirements which gives value for his/her money.
+                            <br><br><br><br>
+                        </div>
                       </div>
                     </div>
                   </div>
+
                   <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1616ce5 elementor-hidden-tablet elementor-hidden-mobile" data-id="1616ce5" data-element_type="column">
                     <div class="elementor-widget-wrap"></div>
                   </div>
@@ -120,6 +171,7 @@
                 </div>
             </section>
         </div>
+
         {{--  --}}
         <div data-elementor-type="wp-page" data-elementor-id="5486" class="elementor   elementor-5486">
             <section class="elementor-section elementor-top-section elementor-element elementor-element-3065a58 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3065a58" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
