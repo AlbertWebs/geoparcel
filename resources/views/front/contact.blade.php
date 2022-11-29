@@ -21,122 +21,13 @@
       <script type='text/javascript' src="{{asset('geopoint/wp-includes/js/jquery/jquery.mina7a0.js')}}" id='jquery-core-js'></script>
       <link rel="canonical" href="{{url('/')}}" />
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+      <link rel='stylesheet' id='elementor-post-4079-css'
+      href="{{asset('geopoint/wp-content/cache/autoptimize/css/responsive.css')}}" type='text/css' media='all' />
 
 
    </head>
    <body class="page-template page-template-template-fullwidth-alt page-template-template-fullwidth-alt-php page page-id-848 page-child parent-pageid-892 wp-embed-responsive wp-featherlight-captions elementor-default elementor-kit-7 elementor-page elementor-page-848">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-dark-grayscale">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0 0.49803921568627" />
-                  <feFuncG type="table" tableValues="0 0.49803921568627" />
-                  <feFuncB type="table" tableValues="0 0.49803921568627" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-grayscale">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0 1" />
-                  <feFuncG type="table" tableValues="0 1" />
-                  <feFuncB type="table" tableValues="0 1" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-purple-yellow">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
-                  <feFuncG type="table" tableValues="0 1" />
-                  <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-blue-red">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0 1" />
-                  <feFuncG type="table" tableValues="0 0.27843137254902" />
-                  <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-midnight">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0 0" />
-                  <feFuncG type="table" tableValues="0 0.64705882352941" />
-                  <feFuncB type="table" tableValues="0 1" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-magenta-yellow">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0.78039215686275 1" />
-                  <feFuncG type="table" tableValues="0 0.94901960784314" />
-                  <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-purple-green">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
-                  <feFuncG type="table" tableValues="0 1" />
-                  <feFuncB type="table" tableValues="0.44705882352941 0.4" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" >
-         <defs>
-            <filter id="wp-duotone-blue-orange">
-               <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-               <feComponentTransfer color-interpolation-filters="sRGB" >
-                  <feFuncR type="table" tableValues="0.098039215686275 1" />
-                  <feFuncG type="table" tableValues="0 0.66274509803922" />
-                  <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
-                  <feFuncA type="table" tableValues="1 1" />
-               </feComponentTransfer>
-               <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-         </defs>
-      </svg>
+
       <div class="wrapper_main tmnf_width_normal header_fullwidth head_default upper image_css_none site_offset_enabled tmnf-sidebar-active tmnf-sidebar-flyoff-fix ">
         <div id="header" class="tmnf_border tmnf_tranz" itemscope itemtype="http://schema.org/WPHeader">
             <a class="screen-reader-text ribbon skip-link" href="#content_start">Skip to content</a>

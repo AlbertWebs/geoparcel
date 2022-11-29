@@ -1,6 +1,26 @@
 #mainHeading{
     height:90px;
 }
+.menu-anchor{
+    color:#ffffff !important;
+}
+
+.nav>li>a, .header_icon a {
+    font-family: Jost;
+    font-weight: 500;
+    font-style: normal;
+    color: #451812;
+    font-size: 15px;
+    font-display: swap;
+}
+.nav>li>a, .header_icon a{
+    font-family: Jost;
+    font-weight: 600;
+    font-style: normal;
+    color: #451812;
+    font-size: 15px;
+    font-display: swap;
+}
 @media(max-width:1424px)
 {
     .elementor-icon-box-title span
@@ -34,6 +54,9 @@
     }
     .arrow-left-left {
         display: none;
+    }
+    .menu-anchor{
+        color:#034567
     }
 }
 

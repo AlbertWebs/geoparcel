@@ -10,6 +10,9 @@
     <link rel="pingback" href="../../xmlrpc.php" />
     <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_7f0f0b4c261ec403c958f935316adba8.css')}}" rel="stylesheet" />
     <link media="all" href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_32d6030c007c8a96e172a797b6b7bb0e.css')}}" rel="stylesheet" />
+    <link media="all"
+    href="{{asset('geopoint/wp-content/cache/autoptimize/css/autoptimize_e2b97ae2cf246a149e3016f5618656ac.css')}}"
+    rel="stylesheet" />
     <title>About Us &#8211; Geopoint</title>
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
@@ -26,6 +29,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
         integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel='stylesheet' id='elementor-post-4079-css'
+        href="{{asset('geopoint/wp-content/cache/autoptimize/css/responsive.css')}}" type='text/css' media='all' />
 
   </head>
   <body class="page-template page-template-template-fullwidth-alt page-template-template-fullwidth-alt-php page page-id-5175 page-child parent-pageid-892 wp-embed-responsive wp-featherlight-captions elementor-default elementor-kit-7 elementor-page elementor-page-5175">
@@ -297,99 +302,7 @@
 
         {{--  --}}
         <div class="clearfix"></div>
-        <section class="elementor-section elementor-inner-section elementor-element elementor-element-45f9660 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45f9660" data-element_type="section">
-            <div class="elementor-container elementor-column-gap-default">
-               <div  class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-8d58660" data-id="8d58660" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-470afc2 elementor-widget elementor-widget-image" data-id="470afc2" data-element_type="widget" data-widget_type="image.default">
-                        <div class="elementor-widget-container"> <img decoding="async" width="128" height="128" src="wp-content/uploads/2022/03/005-map.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/005-map.png 128w, http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/005-map-90x90.png 90w" sizes="(max-width: 128px) 100vw, 128px" /></div>
-                     </div>
-                     <div class="elementor-element elementor-element-a5f2f88 elementor-widget elementor-widget-heading" data-id="a5f2f88" data-element_type="widget" data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                           <p class="elementor-heading-title elementor-size-default">Real Estate
-                              Property Boundaries
-                           </p>
-                        </div>
-                     </div>
-                     <div class="elementor-element elementor-element-847bfdf elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="847bfdf" data-element_type="widget" data-widget_type="divider.default">
-                        <div class="elementor-widget-container">
-                           <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div>
-                        </div>
-                     </div>
-                     <div class="elementor-element elementor-element-a1b3e2c elementor-widget elementor-widget-text-editor" data-id="a1b3e2c" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container"> A property line map, or a “plat,” is a drawing that maps out your property’s boundary lines, and includes details like elevations, bodies of water and structures.</div>
-                     </div>
-                     <div class="elementor-element elementor-element-1360286 e-transform elementor-view-default elementor-widget elementor-widget-icon" data-id="1360286" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:6,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="icon.default">
-                        <div class="elementor-widget-container">
-                           <div class="elementor-icon-wrapper"> <a class="elementor-icon" href="#"> <i aria-hidden="true" class="fas fa-arrow-right"></i> </a></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
 
-               <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-12b25aa" data-id="12b25aa" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-f382084 elementor-widget elementor-widget-image" data-id="f382084" data-element_type="widget" data-widget_type="image.default">
-                        <div class="elementor-widget-container"> <img decoding="async" width="128" height="128" src="wp-content/uploads/2022/03/008-location.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/008-location.png 128w, http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/008-location-90x90.png 90w" sizes="(max-width: 128px) 100vw, 128px" /></div>
-                     </div>
-                     <div class="elementor-element elementor-element-7542257 elementor-widget elementor-widget-heading" data-id="7542257" data-element_type="widget" data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                           <p class="elementor-heading-title elementor-size-default">Topographic Exhibit</p>
-                        </div>
-                     </div>
-                     <div class="elementor-element elementor-element-66bd7e4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="66bd7e4" data-element_type="widget" data-widget_type="divider.default">
-                        <div class="elementor-widget-container">
-                           <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div>
-                        </div>
-                     </div>
-                     <div class="elementor-element elementor-element-adabfe3 elementor-widget elementor-widget-text-editor" data-id="adabfe3" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container"> In modern mapping, a topographic map or topographic sheet is a type of map characterized by large-scale detail and quantitative representation of relief.</div>
-                     </div>
-                     <div class="elementor-element elementor-element-f3b36f3 e-transform elementor-view-default elementor-widget elementor-widget-icon" data-id="f3b36f3" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:6,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="icon.default">
-                        <div class="elementor-widget-container">
-                           <div class="elementor-icon-wrapper"> <a class="elementor-icon" href="#"> <i aria-hidden="true" class="fas fa-arrow-right"></i> </a></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6897f00" data-id="6897f00" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-                  <div class="elementor-widget-wrap elementor-element-populated">
-                     <div class="elementor-element elementor-element-d426de9 elementor-widget elementor-widget-image" data-id="d426de9" data-element_type="widget" data-widget_type="image.default">
-                        <div class="elementor-widget-container"> <img decoding="async" width="128" height="128" src="wp-content/uploads/2022/03/010-measuring.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/010-measuring.png 128w, http://themestate.com/demo/geopoint/wp-content/uploads/2022/03/010-measuring-90x90.png 90w" sizes="(max-width: 128px) 100vw, 128px" /></div>
-                     </div>
-                     <div class="elementor-element elementor-element-6b6899b elementor-widget elementor-widget-heading" data-id="6b6899b" data-element_type="widget" data-widget_type="heading.default">
-                        <div class="elementor-widget-container">
-                           <p class="elementor-heading-title elementor-size-default">Improvement Location Certificate</p>
-                        </div>
-                     </div>
-                     <div class="elementor-element elementor-element-8814b17 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="8814b17" data-element_type="widget" data-widget_type="divider.default">
-                        <div class="elementor-widget-container">
-                           <div class="elementor-divider"> <span class="elementor-divider-separator"> </span></div>
-                        </div>
-                     </div>
-                     <div class="elementor-element elementor-element-3ac9944 elementor-widget elementor-widget-text-editor" data-id="3ac9944" data-element_type="widget" data-widget_type="text-editor.default">
-                        <div class="elementor-widget-container"> Is an inspection of a parcel by a licensed surveyor to determine possible encroachments or other matters that could be adverse from a land surveying standpoint.</div>
-                     </div>
-                     <div class="elementor-element elementor-element-a2daa6c e-transform elementor-view-default elementor-widget elementor-widget-icon" data-id="a2daa6c" data-element_type="widget" data-settings="{&quot;_transform_translateX_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:6,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateX_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;_transform_translateY_effect_hover_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="icon.default">
-                        <div class="elementor-widget-container">
-                           <div class="elementor-icon-wrapper"> <a class="elementor-icon" href="#"> <i aria-hidden="true" class="fas fa-arrow-right"></i> </a></div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </section>
-        <div class="clearfix"></div>
-        {{-- <div id="footop" class="footop ">
-          <img class="tranz tmnf_hero_image" src="{{asset('geopoint/wp-content/uploads/2022/03/12175.jpg')}}" alt="About Us" />
-          <div class="tmnf_container">
-            <div class="tmnf_column tmnf_column_12">
-              <div class="footop_wrap">
-                <div class="footer_tagline"></div>
-              </div>
-            </div>
-          </div>
-        </div> --}}
         @include('front.footer')
         <div class="site_offset">
           <ul class="tmnf_social_icons tranz">

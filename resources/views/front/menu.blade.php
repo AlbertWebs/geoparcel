@@ -17,7 +17,7 @@
                             <ul class="sub-menu">
                                 <?php $Services = DB::table('services')->get(); ?>
                                 @foreach ($Services as $item)
-                                <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a style="color:#ffffff" href="{{url('/')}}/services/{{$item->slung}}">{{$item->title}}</a></li>
+                                <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a class="menu-anchor" href="{{url('/')}}/services/{{$item->slung}}">{{$item->title}}</a></li>
                                 @endforeach
 
                             </ul>
@@ -27,7 +27,7 @@
                             <ul class="sub-menu">
                                 <?php $Products = DB::table('products')->get(); ?>
                                 @foreach ($Products as $item)
-                                <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a style="color:#ffffff" href="{{url('/')}}/products/{{$item->slung}}">{{$item->title}}</a></li>
+                                <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a class="menu-anchor" href="{{url('/')}}/products/{{$item->slung}}">{{$item->title}}</a></li>
                                 @endforeach
 
                             </ul>
