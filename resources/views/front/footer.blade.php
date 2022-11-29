@@ -13,19 +13,20 @@
        <div class="tmnf_foocol sec">
           <h4 class="widget tmnf_border small_title">Latest News</h4>
           <ul>
-             <li> <a href="for-a-minute-or-two-she-stood-looking-at-the-house/index.html">Basic boundary survey with property corners</a></li>
-             <li> <a href="how-surprised-hell-be-when-he-finds-out-who-i-am/index.html">Research of federal and state resources and the public record</a></li>
+            <?php $Products = DB::table('products')->get(); ?>
+            @foreach ($Products as $item)
+             <li> <a href="{{url('/')}}/products/{{$item->slung}}">{{$item->title}}</a></li>
+            @endforeach
 
           </ul>
        </div>
        <div class="tmnf_foocol third">
           <h4 class="widget tmnf_border small_title">Services</h4>
           <ul>
-
-             <li class="cat-item cat-item-14"><a href="#">Land/Property Survey</a></li>
-             <li class="cat-item cat-item-8"><a href="#">Setting Out</a></li>
-             <li class="cat-item cat-item-2"><a href="#">Topographic Survey</a></li>
-
+            <?php $Services = DB::table('services')->get(); ?>
+            @foreach ($Services as $item)
+             <li class="cat-item cat-item-14"><a href="{{url('/')}}/services/{{$item->slung}}">{{$item->title}}</a></li>
+             @endforeach
           </ul>
        </div>
        <div class="tmnf_foocol last">
