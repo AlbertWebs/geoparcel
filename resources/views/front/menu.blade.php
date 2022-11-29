@@ -22,6 +22,16 @@
 
                             </ul>
                          </li>
+                         <li id="menu-item-4413" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4413" aria-haspopup="true" role="menuitem" aria-expanded="false" tabindex="0">
+                            <a href="#">Products</a>
+                            <ul class="sub-menu">
+                                <?php $Products = DB::table('products')->get(); ?>
+                                @foreach ($Products as $item)
+                                <li id="menu-item-5226" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5226"><a style="color:#ffffff" href="{{url('/')}}/products/{{$item->slung}}">{{$item->title}}</a></li>
+                                @endforeach
+
+                            </ul>
+                         </li>
                          <li id="menu-item-4266" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4266"><a  href="{{url('/')}}/contact-us">Contact Us</a></li>
                          <li id="menu-item-4417" class="special menu-item menu-item-type-post_type menu-item-object-page menu-item-4417"><a href="{{url('/')}}/contact-us">Request a Survey<span class="menu-item-description tranz">Let’s talk about projects.</span></a></li>
                       </ul>
