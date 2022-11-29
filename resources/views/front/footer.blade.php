@@ -11,7 +11,7 @@
           {{-- <form role="search" class="searchform" method="get" action="http://themestate.com/demo/geopoint/"> <label for="search-form-637c692f17862"> <span class="screen-reader-text">Search for:</span> </label> <input id="search-form-637c692f17862"  type="text" name="s" class="s p-border" size="30" value="Search..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /> <button class='searchSubmit ribbon' ><i class="fas fa-search"></i></button></form> --}}
        </div>
        <div class="tmnf_foocol sec">
-          <h4 class="widget tmnf_border small_title">Latest News</h4>
+          <h4 class="widget tmnf_border small_title">Products</h4>
           <ul>
             <?php $Products = DB::table('products')->get(); ?>
             @foreach ($Products as $item)
