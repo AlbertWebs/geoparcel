@@ -16,3 +16,46 @@
     max-width:600px;
     min-height: 180px;
 }
+
+.fa,.fas{
+    font-family:"Font Awesome 5 Free";
+    font-weight:900
+}
+body,input,button,select,textarea,#wpmem_reg fieldset,#wpmem_login fieldset{
+    font-family:Jost;
+    font-weight:400;
+    font-style:normal;
+    color:#4c4c4c;
+    font-size:19px;
+    font-display:swap
+}
+body,.widgetable{background-color:#fafafa}
+.ghost,.single .give-goal-progress,.sidebar_item,#comments .navigation a,a.page-numbers,.page-numbers.dots,.postinfo .mc4wp-form,.tmnf_tags a,
+.item .sticky .item_inn,.tmnf_entry blockquote{
+    background-color:#fff;
+}
+a{
+    color:#301428
+}
+a:hover{color:#451812}a:active{color:#000}.tmnf_entry p a,.tmnf_entry ol a,.tmnf_entry ul a,.elementor-text-editor a{color:#451812}.tmnf_entry p a:hover,.tmnf_entry li a:hover{background-color:#451812}.tmnf_border,.head_logo_below #header.tmnf_border,.page_header,.sidebar_item,.project_post .tmnf_excerpt,input,textarea,select,.sidebar_item li,.comment-body,.tagcloud a,.page-numbers,.nav_item a,.tmnf_tags a,.postinfo .mc4wp-form,table,table th,table td,.wp-block-search .wp-block-search__input,.item .sticky .item_inn{border-color:#efefef}#sidebar,.post-pagination span{color:#494949}.widgetable a{color:#451812}.widgetable a:hover{color:#451812}#header,.header_transparent .tmnf_menu_row.scrollDown{
+    background-color:#fff;
+    position: fixed;
+    width: 93%;
+}
+
+#topnav.playMeErase {
+    display: none;
+    transition: all 0.3s ease-in-out;
+}
+
+@media screen and (max-width: 960px) {
+    #header {
+        width: 100%;
+    }
+}
+
+@media screen and (min-width: 820px) and (max-width: 820px) {
+    #header {
+        width: 94%;
+    }
+}
