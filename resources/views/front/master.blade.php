@@ -49,9 +49,89 @@
 
     {{-- <link rel="stylesheet" type="text/css" href="{{ url('/css/style.css') }}" /> --}}
 
-    <style>
+    {{-- beginning of stylig --}}
+        <style>
+            #mainPara.biggestFan {
+                transition: 0.5s ease-in-out;
+                animation: blueElement ease-in-out;
+                animation-duration: 2s;
+                transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
 
-    </style>
+            #mainHeading.biggestFan {
+                transition: 0.5s ease-in-out;
+                animation: blueElement ease-in-out;
+                animation-duration: 3s;
+                transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
+
+            #mainPara.biggestFan1 {
+                transition: 0.5s ease-in-out;
+                animation: blueElement1 ease-in-out;
+                animation-duration: 2s;
+                transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
+
+            #mainHeading.biggestFan1 {
+                transition: 0.5s ease-in-out;
+                animation: blueElement2 ease-in-out;
+                animation-duration: 3s;
+                transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
+
+            #mainPara.biggestFan2 {
+                transition: 0.5s ease-in-out;
+                animation: blueElement2 ease-in-out;
+                animation-duration: 2s;
+                transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
+
+            #mainHeading.biggestFan2 {
+                transition: 0.5s ease-in-out;
+                animation: blueElement1 ease-in-out;
+                animation-duration: 3s;
+                transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
+            }
+
+            @keyframes blueElement {
+
+                0% {
+                    transform: translateX(30px);
+                    opacity: 0;
+                }
+
+                100% {
+                    transform: translateX(0px);
+                    opacity: 1;
+                }
+            }
+
+            @keyframes blueElement1 {
+
+                0% {
+                    transform: translateX(30px);
+                    opacity: 0;
+                }
+
+                100% {
+                    transform: translateX(0px);
+                    opacity: 1;
+                }
+            }
+
+            @keyframes blueElement2 {
+                0% {
+                    transform: translateX(30px);
+                    opacity: 0;
+                }
+
+                100% {
+                    transform: translateX(0px);
+                    opacity: 1;
+                }
+            }
+        </style>
+    {{-- end --}}
 </head>
 
 <body
@@ -145,65 +225,136 @@
             rigi.classList.add("stima-background0");
             mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
             mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
+            mainpara.classList.add("biggestFan");
+            mainSomething.classList.add("biggestFan");
         }
+
+
+        setInterval(() => {
+            counterScript++;
+
+            if(counterScript === 3) {
+                counterScript = 0;
+            }
+
+            if(counterScript === 0) {
+                rigi.classList.remove('stima-background2')
+                rigi.classList.add("stima-background0");
+                mainpara.classList.remove("biggestFan2");
+                mainSomething.classList.remove("biggestFan2");
+                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+                mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate information is delivered";
+                mainpara.classList.add("biggestFan");
+                mainSomething.classList.add("biggestFan");
+            }
+
+            if(counterScript === 1) {
+                rigi.classList.remove('stima-background0')
+                mainpara.classList.remove("biggestFan");
+                mainSomething.classList.remove("biggestFan");
+                rigi.classList.add("stima-background1")
+                mainSomething.innerHTML = "SETTING OUT";
+                mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
+                mainpara.classList.add("biggestFan1");
+                mainSomething.classList.add("biggestFan1");
+            }
+
+            if(counterScript === 2) {
+                rigi.classList.remove('stima-background1')
+                mainpara.classList.remove("biggestFan1");
+                mainSomething.classList.remove("biggestFan1");
+                rigi.classList.add("stima-background2")
+                mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
+                mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
+                mainpara.classList.add("biggestFan2");
+                mainSomething.classList.add("biggestFan2");
+            }
+        }, 10000);
+
+
 
 
         function changeBackgroundRight() {
-           counterScript += 1;
-           if(counterScript > 2) {
+        counterScript += 1;
+
+        if(counterScript > 2) {
             counterScript = 0;
-           }
-
-        if(counterScript === 0) {
-            rigi.classList.remove('stima-background2')
-            rigi.classList.add("stima-background0");
-            mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
-            mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
         }
 
-        if(counterScript === 1) {
-            rigi.classList.remove('stima-background0')
-            rigi.classList.add("stima-background1")
-            mainSomething.innerHTML = "SETTING OUT";
-            mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
-        }
+            if(counterScript === 0) {
+                rigi.classList.remove('stima-background2')
+                mainpara.classList.remove("biggestFan2");
+                mainSomething.classList.remove("biggestFan2");
+                rigi.classList.add("stima-background0");
+                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+                mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
+                mainpara.classList.add("biggestFan");
+                mainSomething.classList.add("biggestFan");
+            }
 
-        if(counterScript === 2) {
-            rigi.classList.remove('stima-background1')
-            rigi.classList.add("stima-background2")
-            mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
-            mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
-        }
+            if(counterScript === 1) {
+                rigi.classList.remove('stima-background0')
+                mainpara.classList.remove("biggestFan");
+                mainSomething.classList.remove("biggestFan");
+                rigi.classList.add("stima-background1")
+                mainSomething.innerHTML = "SETTING OUT";
+                mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
+                mainpara.classList.add("biggestFan1");
+                mainSomething.classList.add("biggestFan1");
+            }
+
+            if(counterScript === 2) {
+                rigi.classList.remove('stima-background1')
+                mainpara.classList.remove("biggestFan1");
+                mainSomething.classList.remove("biggestFan1");
+                rigi.classList.add("stima-background2")
+                mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
+                mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
+                mainpara.classList.add("biggestFan2");
+                mainSomething.classList.add("biggestFan2");
+            }
 
         }
 
         function changeBackgroundLeft() {
-           counterScript -= 1;
+        counterScript -= 1;
 
-           if(counterScript === -1) {
+        if(counterScript === -1) {
             counterScript = 2;
             rigi.classList.remove("stima-background0");
-           }
+        }
 
-           if(counterScript === 0) {
+        if(counterScript === 0) {
                 rigi.classList.remove('stima-background0')
+                mainpara.classList.remove("biggestFan2");
+                mainSomething.classList.remove("biggestFan2");
                 rigi.classList.add("stima-background2");
                 mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
                 mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
+                mainpara.classList.add("biggestFan");
+                mainSomething.classList.add("biggestFan");
             }
 
             if(counterScript === 1) {
                 rigi.classList.remove('stima-background1')
+                mainpara.classList.remove("biggestFan");
+                mainSomething.classList.remove("biggestFan");
                 rigi.classList.add("stima-background0")
                 mainSomething.innerHTML = "SETTING OUT";
                 mainpara.innerText = "Help the land developers mark out bulidings, structures and servuces based on the architecural and engineering drawings.";
+                mainpara.classList.add("biggestFan1");
+                mainSomething.classList.add("biggestFan1");
             }
 
             if(counterScript === 2) {
                 rigi.classList.remove('stima-background2')
+                mainpara.classList.remove("biggestFan1");
+                mainSomething.classList.remove("biggestFan1");
                 rigi.classList.add("stima-background1")
                 mainSomething.innerHTML = "TOPOGRAPHIC SURVEY";
                 mainpara.innerText = "GeoParcel Surveys Limited routinely provides surveying solutions for business, real estate, land development and civil engineering in Kenya and Africa as a Whole";
+                mainpara.classList.add("biggestFan2");
+                mainSomething.classList.add("biggestFan2");
             }
         }
 
