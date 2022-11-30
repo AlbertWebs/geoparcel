@@ -25,6 +25,10 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
       integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
       crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+      <link rel='stylesheet' id='elementor-post-4079-css'
+      href="{{asset('geopoint/wp-content/cache/autoptimize/css/style.css')}}" type='text/css' media='all' />
+
       <link rel='stylesheet' id='elementor-post-4079-css'
         href="{{asset('geopoint/wp-content/cache/autoptimize/css/responsive.css')}}" type='text/css' media='all' />
 
@@ -62,6 +66,7 @@
             <div class="clearfix"></div>
          </div>
          <div class="clearfix"></div>
+         <br><br><br>
          <div class="wrapper p-border">
             <div class="tmnf_single tmnf_sidebar_none" itemscope itemtype="http://schema.org/NewsArticle">
                <meta itemscope itemprop="mainEntityOfPage"  content=""  itemType="https://schema.org/WebPage" itemid="index.html"/>
@@ -125,35 +130,37 @@
                </div>
             </div>
             @include('front.footer')
-        <div class="site_offset">
-          <ul class="tmnf_social_icons tranz">
-            <li class="tmnf_twitter">
-              <a class="mk-social-twitter-alt" href="../../index.html#">
-                <i class="fab fa-twitter"></i>
-                <span>Twitter</span>
-              </a>
-            </li>
-            <li class="tmnf_linkedin">
-              <a class="mk-social-linkedin" title="LinkedIn" href="../../index.html#">
-                <i class="fab fa-linkedin-in"></i>
-                <span>LinkedIn</span>
-              </a>
-            </li>
-            <li class="tmnf_facebook">
-              <a href="../../index.html#">
-                <i class="fab fa-facebook"></i>
-                <span>Facebook</span>
-              </a>
-            </li>
-          </ul>
-          <h6>Professional Land Surveying</h6>
-        </div>
+
+            <div class="site_offset">
+              <ul class="tmnf_social_icons tranz">
+                <li class="tmnf_twitter">
+                  <a class="mk-social-twitter-alt" href="../../index.html#">
+                    <i class="fab fa-twitter"></i>
+                    <span>Twitter</span>
+                  </a>
+                </li>
+                <li class="tmnf_linkedin">
+                  <a class="mk-social-linkedin" title="LinkedIn" href="../../index.html#">
+                    <i class="fab fa-linkedin-in"></i>
+                    <span>LinkedIn</span>
+                  </a>
+                </li>
+                <li class="tmnf_facebook">
+                  <a href="../../index.html#">
+                    <i class="fab fa-facebook"></i>
+                    <span>Facebook</span>
+                  </a>
+                </li>
+              </ul>
+              <h6>Professional Land Surveying</h6>
+            </div>
 
             <div class="scroll_to_top ribbon"> <a title="Scroll to top" class="rad" href="#">&uarr;</a></div>
          </div>
       </div>
 
           <script defer src="{{asset('geopoint/wp-content/cache/autoptimize/js/autoptimize_d96bd1d6b701da99d4d2ab0d1a12a302.js')}}"></script>
-   </body>
+          @include('front.scripts')
+    </body>
 
 </html>

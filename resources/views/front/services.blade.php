@@ -151,7 +151,7 @@
 
         @include('front.footer')
 
-        @include('front.footer')
+
         <div class="site_offset">
           <ul class="tmnf_social_icons tranz">
             <li class="tmnf_twitter">

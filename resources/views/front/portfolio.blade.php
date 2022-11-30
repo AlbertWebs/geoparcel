@@ -19,6 +19,10 @@
          <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Jost:100,200,300,400,500,600,700,800,900,100italic,200italic,300italic,400italic,500italic,600italic,700italic,800italic,900italic%7CPoppins:700%7CDM%20Sans:700,500&amp;display=swap&amp;ver=1647854532" />
       </noscript>
       <script type='text/javascript' src='{{asset('geopoint/wp-includes/js/jquery/jquery.mina7a0.js')}}' id='jquery-core-js'></script>
+
+      <link rel='stylesheet' id='elementor-post-4079-css'
+      href="{{asset('geopoint/wp-content/cache/autoptimize/css/style.css')}}" type='text/css' media='all' />
+
       <link rel='stylesheet' id='elementor-post-4079-css'
       href="{{asset('geopoint/wp-content/cache/autoptimize/css/responsive.css')}}" type='text/css' media='all' />
 
@@ -49,6 +53,7 @@
             <div class="clearfix"></div>
          </div>
          <div class="clearfix"></div>
+         <br><br><br>
          <div class="wrapper p-border">
             <div class="page_header page_header_plain ">
                <div class="tmnf_container">
