@@ -93,7 +93,7 @@
                 <h1 class="post_title large_title">
                   <span itemprop="name">About Us</span>
                 </h1>
-                <p style="font-weight:800; color:#301428; max-width:800px;">
+                <p style="font-weight:400; color:#301428; max-width:800px;">
                     Founded in June 2015 by a team of well experienced and self inspired Land Surveyor and Engineers;
                     GEOPARCEL is one of the leading company in East Africa that offers solutions in geospatial, Topo
                     surveys, Mapping, Cadastral Survey, Property Conveyancing among other sevices
