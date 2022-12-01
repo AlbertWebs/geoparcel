@@ -134,7 +134,7 @@
                     <div class="elementor-widget-wrap elementor-element-populated">
                       <div class="elementor-element elementor-element-a50f02c elementor-widget elementor-widget-image" data-id="a50f02c" data-element_type="widget" data-widget_type="image.default">
                         <div class="elementor-widget-container">
-                          <img style="border-radius:10px;" decoding="async" src="{{asset('geopoint/wp-content/uploads/valeria-fursa-zSrksQgp4W0-unsplash-geo-parcel.jpg')}}" title="image-from-rawpixel-id-3805837-jpeg" alt="image-from-rawpixel-id-3805837-jpeg" />
+                          <img style="border-radius:10px;" decoding="async" src="{{url('/')}}/images/{{$Ser->image}}" title="{{$Ser->image}}" alt="{{$Ser->image}}" />
                         </div>
                       </div>
                     </div>

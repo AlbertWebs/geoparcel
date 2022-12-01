@@ -223,7 +223,7 @@
 
         if(counterScript === 0) {
             rigi.classList.add("stima-background0");
-            mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+            mainSomething.innerHTML = "PROPERTY SURVEY";
             mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
             mainpara.classList.add("biggestFan");
             mainSomething.classList.add("biggestFan");
@@ -242,7 +242,7 @@
                 rigi.classList.add("stima-background0");
                 mainpara.classList.remove("biggestFan2");
                 mainSomething.classList.remove("biggestFan2");
-                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+                mainSomething.innerHTML = "PROPERTY SURVEY";
                 mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate information is delivered";
                 mainpara.classList.add("biggestFan");
                 mainSomething.classList.add("biggestFan");
@@ -286,7 +286,7 @@
                 mainpara.classList.remove("biggestFan2");
                 mainSomething.classList.remove("biggestFan2");
                 rigi.classList.add("stima-background0");
-                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+                mainSomething.innerHTML = "PROPERTY SURVEY";
                 mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
                 mainpara.classList.add("biggestFan");
                 mainSomething.classList.add("biggestFan");
@@ -329,7 +329,7 @@
                 mainpara.classList.remove("biggestFan2");
                 mainSomething.classList.remove("biggestFan2");
                 rigi.classList.add("stima-background2");
-                mainSomething.innerHTML = "LAND/PROPERTY SURVEY";
+                mainSomething.innerHTML = "PROPERTY SURVEY";
                 mainpara.innerText = "Provide ourselves on ability to consult with our clients to understand the requirements to ensure accurate infimation is delivered";
                 mainpara.classList.add("biggestFan");
                 mainSomething.classList.add("biggestFan");
