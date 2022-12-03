@@ -39,20 +39,6 @@
       <div id="header" class="tmnf_border tmnf_tranz" itemscope itemtype="http://schema.org/WPHeader">
         <a class="screen-reader-text ribbon skip-link" href="#content_start">Skip to content</a>
         <div class="header_logo_above header_default">
-          <div id="topnav" class="tmnf_header_row tmnf_topnav_row">
-            <div class="tmnf_container tmnf_container_head">
-              <div class="tmnf_column tmnf_column_12">
-                <div class="titles_fix"></div>
-                <h2 class="header_text"><i class="fas fa-map-marker-alt"></i> Upperhill Garden,3rd Ngong Avenue</h2>
-                <ul id="add-nav" class="nav">
-                    <li id="menu-item-4418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4418"><a href="tel:+254 705 192 693"><i class="fas fa-phone-square-alt"></i> +254 705 192 693</a></li>
-                    <li id="menu-item-5144" class="kill menu-item menu-item-type-custom menu-item-object-custom menu-item-5144"><a href="#"><i class="far fa-envelope"></i> info@geoparcelsurveys.com</a></li>
-                </ul>
-                <div class="clearfix"></div>
-              </div>
-            </div>
-          </div>
-          <div class="clearfix"></div>
           @include('front.menu')
         </div>
         <div class="clearfix"></div>
