@@ -297,6 +297,69 @@
          <div class="clearfix"></div>
 
         {{--  --}}
+
+        <div data-elementor-type="wp-page" data-elementor-id="5175" class="elementor elementor-5175">
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-0ac5f88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac5f88" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+                <div class="elementor-container elementor-column-gap-wide">
+
+
+                  <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-696824b" data-id="696824b" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                      <div class="elementor-element elementor-element-a50f02c elementor-widget elementor-widget-image" data-id="a50f02c" data-element_type="widget" data-widget_type="image.default">
+                        <div class="elementor-widget-container">
+                          <img style="border-radius:10px;" decoding="async" src="{{asset('geopoint/wp-content/uploads/pexels-mikhail-nilov-6965301.jpg')}}" title="image-from-rawpixel-id-3805837-jpeg" alt="image-from-rawpixel-id-3805837-jpeg" />
+                        </div>
+                        <br><br>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1616ce5 elementor-hidden-tablet elementor-hidden-mobile" data-id="1616ce5" data-element_type="column">
+                    <div class="elementor-widget-wrap"></div>
+                  </div>
+
+                  <div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4a58a47" data-id="4a58a47" data-element_type="column">
+                    <div class="elementor-widget-wrap elementor-element-populated">
+
+                      <div class="elementor-element elementor-element-1078c99 elementor-widget elementor-widget-heading" data-id="1078c99" data-element_type="widget" data-widget_type="heading.default">
+                        <div class="elementor-widget-container">
+                          <h2 class="elementor-heading-title elementor-size-xl">Core Values</h2>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-167d1a2 elementor-widget-divider--view-line_icon elementor-widget-divider--element-align-right elementor-view-default elementor-widget elementor-widget-divider" data-id="167d1a2" data-element_type="widget" data-widget_type="divider.default">
+                        <div class="elementor-widget-container">
+                          <div class="elementor-divider">
+                            <span class="elementor-divider-separator">
+                              <div class="elementor-icon elementor-divider__element">
+                                <i aria-hidden="true" class="fas fa-square-full"></i>
+                              </div>
+                            </span>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor" data-id="1acdcb4" data-element_type="widget" data-widget_type="text-editor.default">
+                        <div class="elementor-widget-container">
+                          <ul>
+                            <li>Provide security tenure to our customers</li>
+                            <li>Customer satisfaction is the reason for our existence</li>
+                            <li>Timely delivery of solutions to our customers</li>
+                            <li>Integrity and Honesty is one of our great vision</li>
+                            <li>Excellent service is our purpose in the Industry</li>
+                        </ul>
+                        </div>
+                      </div>
+                      {{--  --}}
+
+
+
+
+                    </div>
+                  </div>
+
+                </div>
+            </section>
+        </div>
+
         <div class="clearfix"></div>
 
         @include('front.footer')
