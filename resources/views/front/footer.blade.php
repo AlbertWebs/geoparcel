@@ -48,7 +48,7 @@
           <div class="tmnf_column tmnf_column_7">
              <ul class="tmnf_social_icons tranz">
                 <li class="tmnf_twitter"><a style="color:#ffffff" class="mk-social-twitter-alt" href="index.html#"><i class="fab fa-twitter"></i><span style="color:#ffffff">Twitter</span></a></li>
-                <li class="tmnf_linkedin"><a style="color:#ffffff" class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i class="fab fa-linkedin-in"></i><span style="color:#ffffff">LinkedIn</span></a></li>
+                <li class="tmnf_linkedin"><a style="color:#ffffff" class="mk-social-linkedin" title="LinkedIn" href="https://www.linkedin.com/company/geoparcel-surveys-limited/"><i class="fab fa-linkedin-in"></i><span style="color:#ffffff">LinkedIn</span></a></li>
                 <li class="tmnf_facebook"><a style="color:#ffffff" href="#"><i class="fab fa-facebook"></i><span style="color:#ffffff">Facebook</span></a></li>
                 <li class="tmnf_pinterest"><a style="color:#ffffff" href="#"><i class="fab fa-pinterest"></i><span style="color:#ffffff">Pinterest</span></a></li>
              </ul>

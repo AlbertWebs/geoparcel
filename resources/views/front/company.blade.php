@@ -219,7 +219,7 @@
                                     </div>
                                     <div class="elementor-element elementor-element-4b0a866 elementor-widget elementor-widget-heading" data-id="4b0a866" data-element_type="widget" data-widget_type="heading.default">
                                        <div class="elementor-widget-container">
-                                          <p class="elementor-heading-title elementor-size-default">Directors Land Information Management and Advocacy</p>
+                                          <p class="elementor-heading-title elementor-size-default">Land Administration and Conveyance consultant</p>
                                        </div>
                                     </div>
                                     <div class="elementor-element elementor-element-d5ce10d elementor-widget elementor-widget-text-editor" data-id="d5ce10d" data-element_type="widget" data-widget_type="text-editor.default">
@@ -276,7 +276,7 @@
                                     </div>
                                     <div class="elementor-element elementor-element-59a9f29 elementor-widget elementor-widget-heading" data-id="59a9f29" data-element_type="widget" data-widget_type="heading.default">
                                        <div class="elementor-widget-container">
-                                          <p class="elementor-heading-title elementor-size-default">Technical Director</p>
+                                          <p class="elementor-heading-title elementor-size-default">Land Surveying Consultant</p>
                                        </div>
                                     </div>
                                     <div class="elementor-element elementor-element-ad3f7e9 elementor-widget elementor-widget-text-editor" data-id="ad3f7e9" data-element_type="widget" data-widget_type="text-editor.default">
