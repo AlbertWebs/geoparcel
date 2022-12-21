@@ -150,6 +150,35 @@
             </div>
         </div>
     </section>
+    {{-- <section
+    class="elementor-section elementor-top-section elementor-element elementor-element-82f3437 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+    data-id="82f3437" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+    <div class="elementor-background-overlay"></div>
+    <div class="elementor-container elementor-column-gap-no">
+        <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-79bc6dd" data-id="79bc6dd" data-element_type="column">
+            <div class="elementor-widget-wrap elementor-element-populated">
+                <center>
+                    <h2 style="margin:0 auto !important; text-align:center !important;">
+                        Welcome to Geoparcel Surveys Limited
+                    </h2>
+                </center>
+            </div>
+        </div>
+    </div>
+
+    </section> --}}
+    <section class="elementor-section elementor-top-section elementor-element elementor-element-82f3437 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82f3437" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+        <div class="elementor-background-overlay"></div>
+                <div class="elementor-widget-wrap elementor-element-populated">
+                        <h2 style="margin:0 auto !important; text-align:center !important; color:#3c2534; z-index:1000000000000000 !important">
+                            Welcome to Geoparcel Surveys Limited
+                        </h2>
+                        <br><br>
+                        <p class="margin-fix">
+                            Geoparcel survey Limited is a multidisciplinary consultancy servicing the Cadastral Surveying, Topographical Surveying, Mapping and Land Conveyancing within Kenya and East Africa at large. With over 7 years of rich experience in the field of Land Surveying and Engineering. We are expertly qualified and have versatile knowledge in the process of property conveyancing, manage land survey and land development requirement from concept to the successful complexion.
+                        </p>
+                </div>
+    </section>
     <section
         class="elementor-section elementor-top-section elementor-element elementor-element-82f3437 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
         data-id="82f3437" data-element_type="section"
@@ -414,15 +443,10 @@
                                         <div class="elementor-element elementor-element-1acdcb4 elementor-widget elementor-widget-text-editor"
                                             data-id="1acdcb4" data-element_type="widget"
                                             data-widget_type="text-editor.default">
-                                            <div class="elementor-widget-container"> One way to check your property
-                                                lines is to look at the deed of the property. As a legal document about
-                                                your property, the deed should have a worded description of your land’s
-                                                boundaries. <br> <br> One way to check your property lines is to look at
-                                                the deed of the property. As a legal document about your property, the
-                                                deed should have a worded description of your land’s boundaries.
-                                                <br><br> One way to check your property lines is to look at the deed of
-                                                the property. As a legal document about your property, the deed should
-                                                have a worded description of your land’s boundaries. <br>
+                                            <div class="elementor-widget-container">
+                                                 Our Staff are committed and our comprehensive range of services and products are based on the combination of the experience, technological innovation, and practical experience with a range of projects handled benefits of knowledge and ongoing professional development<br>
+                                                 <br>We are driven to succeed and customers satisfaction among other customers applicable appliances which gives value for his/her money.<br>
+                                                 Furthermore our consultation is sourced from high quality information and quality experts understanding across the many aspects of the land development and Land Survey process. <br>
                                             </div>
                                         </div>
                                     </div>
