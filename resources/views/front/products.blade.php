@@ -121,6 +121,16 @@
                   </div>
                 </div>
             </section>
+            <section class="elementor-section elementor-top-section elementor-element elementor-element-82f3437 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82f3437" data-element_type="section" style="margin:0px 100px 0px 100px !important;">
+                <div class="elementor-background-overlay"></div>
+                        <div class="elementor-widget-wrap elementor-element-populated">
+
+                                <br><br>
+                                <p>
+                                    {!! html_entity_decode($Ser->content_extra) !!}
+                                </p>
+                        </div>
+            </section>
 
             <br><br>
         </div>

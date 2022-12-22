@@ -184,9 +184,9 @@
             @include('front.footer')
             <div class="site_offset">
                 <ul class="tmnf_social_icons tranz">
-                    <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="index.html#"><i
+                    <li class="tmnf_twitter"><a class="mk-social-twitter-alt" href="https://twitter.com/geoparcel"><i
                                 class="fab fa-twitter"></i><span>Twitter</span></a></li>
-                    <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="index.html#"><i
+                    <li class="tmnf_linkedin"><a class="mk-social-linkedin" title="LinkedIn" href="https://www.linkedin.com/company/geoparcel-surveys-limited/"><i
                                 class="fab fa-linkedin-in"></i><span>LinkedIn</span></a></li>
                     <li class="tmnf_facebook"><a href="index.html#"><i
                                 class="fab fa-facebook"></i><span>Facebook</span></a></li>
