@@ -278,7 +278,7 @@
                                     <div class="elementor-element elementor-element-46fea8b elementor-widget elementor-widget-heading"
                                         data-id="46fea8b" data-element_type="widget" data-widget_type="heading.default">
                                         <div class="elementor-widget-container">
-                                            <p class="elementor-heading-title elementor-size-default">Setting Out</p>
+                                            <p class="elementor-heading-title elementor-size-default">Cadastral Surveying</p>
                                         </div>
                                     </div>
                                     <div class="elementor-element elementor-element-3bbf348 elementor-widget-divider--view-line elementor-widget elementor-widget-divider"
@@ -291,9 +291,9 @@
                                     <div class="elementor-element elementor-element-910edad elementor-widget elementor-widget-text-editor"
                                         data-id="910edad" data-element_type="widget"
                                         data-widget_type="text-editor.default">
-                                        <div class="elementor-widget-container"> Help the land developers mark out
-                                            bulidings, structures and servuces based on the architecural and engineering
-                                            drawings.</div>
+                                        <div class="elementor-widget-container">
+                                            Cadastral surveying is a branch of survey that supports land registration with other transactions of land by delineating property boundaries and compiling data for registration of the title of Land.
+                                        </div>
                                     </div>
                                     <div class="elementor-element elementor-element-e0ee2e1 e-transform elementor-view-default elementor-widget elementor-widget-icon"
                                         data-id="e0ee2e1" data-element_type="widget"
