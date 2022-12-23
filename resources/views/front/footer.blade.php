@@ -6,7 +6,9 @@
           <h4 class="widget tmnf_border small_title">GeoParcel Surveys.</h4>
 
           <div class="textwidget">
-             <p>GeoParcel Surveys. routinely provides surveying solutions for business, real estate, land development and civil engineering in Nairobi Area.<br /> The highest quality, most accurate &amp; precise land surveying services.</p>
+             <p>
+                Geoparcel survey Limited is a multidisciplinary consultancy servicing the Cadastral Surveying, Topographical Surveying, Mapping and Land Conveyancing within Kenya and East Africa at large. With over 7 years of rich experience in the field of Land Surveying and Engineering. We are expertly qualified and have versatile knowledge in the process of property conveyancing, manage land survey and land development requirement from concept to the successful completion.
+             </p>
           </div>
           {{-- <form role="search" class="searchform" method="get" action="http://themestate.com/demo/geopoint/"> <label for="search-form-637c692f17862"> <span class="screen-reader-text">Search for:</span> </label> <input id="search-form-637c692f17862"  type="text" name="s" class="s p-border" size="30" value="Search..." onfocus="if (this.value = '') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search...';}" /> <button class='searchSubmit ribbon' ><i class="fas fa-search"></i></button></form> --}}
        </div>

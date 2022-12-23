@@ -72,19 +72,47 @@
                               <figure class="is-layout-flex wp-block-gallery-1 wp-block-gallery alignwide has-nested-images columns-default is-cropped">
                                  <figure class="wp-block-image size-full gallery-img">
                                     <a href="{{asset('geopoint/wp-content/uploads/2022/03/topography-of-terrors-563131_1920.jpg')}}">
-                                        <img decoding="async" width="1920" height="1229" data-id="4340"  src="{{asset('geopoint/wp-content/uploads/2022/03/topography-of-terrors-563131_1920.jpg')}}" alt="" class="wp-image-4340" srcset="{{asset('geopoint/wp-content/uploads/2022/03/topography-of-terrors-563131_1920.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                        <img style="min-height:280px;" decoding="async" width="1920" height="1229" data-id="4340"  src="{{asset('geopoint/wp-content/uploads/2022/03/topography-of-terrors-563131_1920.jpg')}}" alt="" class="wp-image-4340" srcset="{{asset('geopoint/wp-content/uploads/2022/03/topography-of-terrors-563131_1920.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
                                     </a>
                                 </figure>
                                  <figure class="wp-block-image size-full gallery-img"><a href="{{asset('geopoint/wp-content/uploads/2022/03/to-travel-2273232_1920.jpg')}}">
-                                    <img decoding="async" loading="lazy" width="1920" height="1280" data-id="4341"  src="{{asset('geopoint/wp-content/uploads/2022/03/to-travel-2273232_1920.jpg')}}" alt="" class="wp-image-4341" srcset="{{asset('geopoint/wp-content/uploads/2022/03/to-travel-2273232_1920.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                    <img style="min-height:280px;" decoding="async" loading="lazy" width="1920" height="1280" data-id="4341"  src="{{asset('geopoint/wp-content/uploads/2022/03/to-travel-2273232_1920.jpg')}}" alt="" class="wp-image-4341" srcset="{{asset('geopoint/wp-content/uploads/2022/03/to-travel-2273232_1920.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
                                     </a>
                                 </figure>
 
                                  <figure class="wp-block-image size-full gallery-img">
                                     <a href="{{asset('geopoint/wp-content/uploads/2022/03/surveying-3035404_1920.jpg')}}">
-                                    <img decoding="async" loading="lazy" width="1920" height="1332" data-id="4333"  src="{{asset('geopoint/wp-content/uploads/2022/03/surveying-3035404_1920.jpg')}}" alt="" class="wp-image-4333" srcset="{{asset('geopoint/wp-content/uploads/2022/03/surveying-3035404_1920.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
-                                </a>
-                            </figure>
+                                        <img style="min-height:280px;" decoding="async" loading="lazy" width="1920" height="1332" data-id="4333"  src="{{asset('geopoint/wp-content/uploads/2022/03/surveying-3035404_1920.jpg')}}" alt="" class="wp-image-4333" srcset="{{asset('geopoint/wp-content/uploads/2022/03/surveying-3035404_1920.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                    </a>
+                                </figure>
+                                {{--  --}}
+                                <figure class="wp-block-image size-full gallery-img">
+                                    <a href="{{asset('images/galley-01.jpg')}}">
+                                        <img style="min-height:280px;" decoding="async" loading="lazy" width="1920" height="1332" data-id="4333"  src="{{asset('images/galley-01.jpg')}}" alt="" class="wp-image-4333" srcset="{{asset('images/galley-01.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                    </a>
+                                </figure>
+                                <figure class="wp-block-image size-full gallery-img">
+                                    <a href="{{asset('images/galley-02.jpg')}}">
+                                        <img style="min-height:280px;" decoding="async" loading="lazy" width="1920" height="1332" data-id="4333"  src="{{asset('images/galley-02.jpg')}}" alt="" class="wp-image-4333" srcset="{{asset('images/galley-02.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                    </a>
+                                </figure>
+                                <figure class="wp-block-image size-full gallery-img">
+                                    <a href="{{asset('images/galley-03.jpg')}}">
+                                        <img style="min-height:280px;" decoding="async" loading="lazy" width="1920" height="1332" data-id="4333"  src="{{asset('images/galley-03.jpg')}}" alt="" class="wp-image-4333" srcset="{{asset('images/galley-03.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                    </a>
+                                </figure>
+                                <figure class="wp-block-image size-full gallery-img">
+                                    <a href="{{asset('images/galley-04.jpg')}}">
+                                        <img style="min-height:280px;" decoding="async" loading="lazy" width="1920" height="1332" data-id="4333"  src="{{asset('images/galley-04.jpg')}}" alt="" class="wp-image-4333" srcset="{{asset('images/galley-04.jpg')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                    </a>
+                                </figure>
+                                <figure class="wp-block-image size-full gallery-img">
+                                    <a href="{{asset('images/galley-05.webp')}}">
+                                        <img style="min-height:280px;" decoding="async" loading="lazy" width="1920" height="1332" data-id="4333"  src="{{asset('images/galley-05.webp')}}" alt="" class="wp-image-4333" srcset="{{asset('images/galley-05.webp')}}" sizes="(max-width: 1920px) 100vw, 1920px" />
+                                    </a>
+                                </figure>
+
+                                {{--  --}}
                               </figure>
 
                               <div class="clearfix"></div>

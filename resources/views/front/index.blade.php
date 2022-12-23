@@ -175,7 +175,7 @@
                         </h2>
                         <br><br>
                         <p class="margin-fix">
-                            Geoparcel survey Limited is a multidisciplinary consultancy servicing the Cadastral Surveying, Topographical Surveying, Mapping and Land Conveyancing within Kenya and East Africa at large. With over 7 years of rich experience in the field of Land Surveying and Engineering. We are expertly qualified and have versatile knowledge in the process of property conveyancing, manage land survey and land development requirement from concept to the successful complexion.
+                            Geoparcel survey Limited is a multidisciplinary consultancy servicing the Cadastral Surveying, Topographical Surveying, Mapping and Land Conveyancing within Kenya and East Africa at large. With over 7 years of rich experience in the field of Land Surveying and Engineering. We are expertly qualified and have versatile knowledge in the process of property conveyancing, manage land survey and land development requirement from concept to the successful completion.
                         </p>
                 </div>
     </section>
