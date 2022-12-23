@@ -82,6 +82,23 @@
         </div>
         <div id="content_start" class="tmnf_anchor"></div>
 
+        <section class="elementor-section elementor-top-section elementor-element elementor-element-82f3437 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="82f3437" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+            <div class="elementor-background-overlay"></div>
+                    <div class="elementor-widget-wrap elementor-element-populated">
+                            <h2 style="margin:0 auto !important; text-align:center !important; color:#3c2534; z-index:1000000000000000 !important">
+                                Geoparcel Surveys Limited
+                            </h2>
+                            <br><br>
+                            <p class="margin-fix">
+                                Geoparcel survey Limited is a multidisciplinary consultancy servicing the Cadastral Surveying, Topographical Surveying, Mapping and Land Conveyancing within Kenya and East Africa at large. With over 7 years of rich experience in the field of Land Surveying and Engineering. We are expertly qualified and have versatile knowledge in the process of property conveyancing, manage land survey and land development requirement from concept to the successful completion.
+                            </p>
+                            <br><br>
+                            <p class="margin-fix">
+                                Our Staff are committed and our comprehensive range of services and products are based on the combination of the experience, technological innovation, and practical experience with a range of projects handled benefits of knowledge and ongoing professional development. We are driven to succeed and customers satisfaction among other customers applicable appliances which gives value for his/her money. Furthermore our consultation is sourced from high quality information and quality experts understanding across the many aspects of the land development and Land Survey process.
+                            </p>
+                    </div>
+        </section>
+
 
         <div data-elementor-type="wp-page" data-elementor-id="5175" class="elementor elementor-5175">
             <section class="elementor-section elementor-top-section elementor-element elementor-element-0ac5f88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0ac5f88" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
