@@ -45,7 +45,8 @@
             <div class="page_header page_header_plain ">
                <div class="tmnf_container">
                   <div class="tmnf_column tmnf_column_12">
-                     <div class="main_breadcrumbs"> <span class="crumb crumb_home"><a href="{{url('/')}}">Home</a></span> <span class="crumb">Projects</span></div>
+                     <div class="main_breadcrumbs"> <span class="crumb crumb_home">
+                        <a href="{{url('/')}}">Home</a></span> <span class="crumb">Portfolio</span></div>
                      <h1 class="archive_title large_title">Portfolio</h1>
                   </div>
                </div>
@@ -54,10 +55,9 @@
                <div class="tmnf_container">
                   <div id="portfolio-filter" class="portfolio-filter tmnf_column tmnf_column_12">
                      <ul class="tmnf_meta">
-                        <li class="current-cat"><a href="index.html"> All</a></li>
-                        <li class="cat-item cat-item-82"><a href="#">Commercial</a></li>
-                        <li class="cat-item cat-item-83"><a href="#">Public Utilities</a></li>
-                        <li class="cat-item cat-item-81"><a href="#">Residential</a></li>
+                        <li class="current-cat"><a href="{{url('/')}}"> Home</a></li>
+                        <li class="cat-item cat-item-82"><a href="{{url('/')}}/the-company">The Company</a></li>
+                        <li class="cat-item cat-item-83"><a href="{{url('/')}}/portfolio">Portfolio</a></li>
                      </ul>
                   </div>
                   <div class="clearfix"></div>
@@ -66,13 +66,15 @@
                      <div class="item tmnf_column tmnf_column_6 ">
                         <div class="project_post tranz post-5653 tmnf_project type-tmnf_project status-publish has-post-thumbnail hentry project-category-public-utilities">
                            <div class="entryhead">
-                              <div class="imgwrap"> <a href="../work/park-aerial-survey/index.html"> <img width="600" height="450" src="{{asset('geopoint/wp-content/uploads/2022/03/pexels-darrel-und-1087182-600x450.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" /> </a></div>
+                              <div class="imgwrap"> <a href="../work/park-aerial-survey/index.html"> <img width="600" height="450" src="{{asset('images/galley-03.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" /> </a></div>
                               <p class="tmnf_meta project_meta tmnf_meta_categs tranz"> <span class="categs"><a href="../project-category/public-utilities/index.html"><span>&bull; </span>Public Utilities</a></span></p>
                            </div>
                            <div class="project_inn tmnf_shadow ghost tranz ">
-                              <h3 class="project-title"><a class="link link--forsure" href="../work/park-aerial-survey/index.html">Park Aerial Survey</a></h3>
+                              <h3 class="project-title"><a class="link link--forsure" href="../work/park-aerial-survey/index.html">Land Conveyancing</a></h3>
                               <div class="tmnf_excerpt">
-                                 <p>Aerial Imaging With their ability to capture data from above, drones are able to perform land surveys, photogrammetry, 3D mapping, topographic surveying, and more, with increased efficiency. The Benefits of Drone Mapping Using drones for surveying offers the following advantages: Speed – Drones can scan acres of land in a fraction of the time it &hellip;</p>
+                                 <p>
+                                    {{--  --}}
+                                 </p>
                               </div>
                               <div class="project_info tranz">
                                  <div class="project_meta_item tranz">
@@ -106,13 +108,17 @@
                      <div class="item tmnf_column tmnf_column_6 ">
                         <div class="project_post tranz post-5652 tmnf_project type-tmnf_project status-publish has-post-thumbnail hentry project-category-public-utilities">
                            <div class="entryhead">
-                              <div class="imgwrap"> <a href="#l"> <img width="600" height="450" src="{{asset('geopoint/wp-content/uploads/2022/03/surveyor-20092_1920-600x450.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" srcset="{{asset('geopoint/wp-content/uploads/2022/03/surveyor-20092_1920-600x450.jpg')}}" sizes="(max-width: 600px) 100vw, 600px" /> </a></div>
+                              <div class="imgwrap">
+                                <a href="#l"> <img width="600" height="450" src="{{asset('images/galley-02.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" srcset="{{asset('images/galley-02.jpg')}}" sizes="(max-width: 600px) 100vw, 600px" /> </a>
+                              </div>
                               <p class="tmnf_meta project_meta tmnf_meta_categs tranz"> <span class="categs"><a href="{{url('/')}}"><span>&bull; </span>Public Utilities</a></span></p>
                            </div>
                            <div class="project_inn tmnf_shadow ghost tranz ">
-                              <h3 class="project-title"><a class="link link--forsure" href="#l">Highway Planning</a></h3>
+                              <h3 class="project-title"><a class="link link--forsure" href="#l">Topographic Survey</a></h3>
                               <div class="tmnf_excerpt">
-                                 <p>The Community Charter defines highways to include streets, roads, lanes, bridges, viaducts and any other way open to public use.</p>
+                                 <p>
+                                    {{--  --}}
+                                 </p>
                               </div>
                               <div class="project_info tranz">
                                  <div class="project_meta_item tranz">
@@ -140,86 +146,6 @@
                               </div>
                               <div class="clearfix"></div>
                               <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="#l">More Info &rarr;</a></p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="item tmnf_column tmnf_column_6 ">
-                        <div class="project_post tranz post-5651 tmnf_project type-tmnf_project status-publish has-post-thumbnail hentry project-category-commercial">
-                           <div class="entryhead">
-                              <div class="imgwrap"> <a href="../work/mall-site-plan/index.html"> <img width="600" height="450" src="{{asset('geopoint/wp-content/uploads/2022/03/topography-of-terrors-563131_1920-600x450.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" /> </a></div>
-                              <p class="tmnf_meta project_meta tmnf_meta_categs tranz"> <span class="categs"><a href="../project-category/commercial/index.html"><span>&bull; </span>Commercial</a></span></p>
-                           </div>
-                           <div class="project_inn tmnf_shadow ghost tranz ">
-                              <h3 class="project-title"><a class="link link--forsure" href="../work/mall-site-plan/index.html">Mall Site Plan</a></h3>
-                              <div class="tmnf_excerpt">
-                                 <p>The external building finishes comprises of Branco Real natural stone, energy efficient curtain wall glazing incorporating decorative external bronze fins and powder coated metal panelling.</p>
-                              </div>
-                              <div class="project_info tranz">
-                                 <div class="project_meta_item tranz">
-                                    <i class="fas fa-address-book"></i>
-                                    <h6>Customer</h6>
-                                    South Mall Inc.
-                                 </div>
-                                 <div class="project_meta_item tranz">
-                                    <i class="far fa-clock"></i>
-                                    <h6>Delivery</h6>
-                                    January, 2022
-                                 </div>
-                                 <div class="project_meta_item tranz">
-                                    <i class="fas fa-folder-open"></i>
-                                    <h6>Project Type</h6>
-                                    Commercial Construction
-                                 </div>
-                                 <div class="project_meta_item tranz">
-                                    <i class="fas fa-map-marker-alt"></i>
-                                    <h6>Location</h6>
-                                    Karuna Road, Westlands, Nairobi
-                                 </div>
-                                 <div class="project_meta_item tranz"></div>
-                                 <div class="project_meta_item tranz"></div>
-                              </div>
-                              <div class="clearfix"></div>
-                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="../work/mall-site-plan/index.html">More Info &rarr;</a></p>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="item tmnf_column tmnf_column_6 ">
-                        <div class="project_post tranz post-5648 tmnf_project type-tmnf_project status-publish has-post-thumbnail hentry project-category-residential">
-                           <div class="entryhead">
-                              <div class="imgwrap"> <a href="#"> <img width="600" height="450" src="{{asset('geopoint/wp-content/uploads/2022/03/topography-813844_1920-600x450.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" /> </a></div>
-                              <p class="tmnf_meta project_meta tmnf_meta_categs tranz"> <span class="categs"><a href="../project-category/residential/index.html"><span>&bull; </span>Residential</a></span></p>
-                           </div>
-                           <div class="project_inn tmnf_shadow ghost tranz ">
-                              <h3 class="project-title"><a class="link link--forsure" href="#">Boise Land Plan</a></h3>
-                              <div class="tmnf_excerpt">
-                                 <p>The foundation block of a cadastre is the cadastral plan (or survey plan). This is produced by a registered surveyor who measures each property.</p>
-                              </div>
-                              <div class="project_info tranz">
-                                 <div class="project_meta_item tranz">
-                                    <i class="fas fa-address-book"></i>
-                                    <h6>Customer</h6>
-                                    City of Boise
-                                 </div>
-                                 <div class="project_meta_item tranz">
-                                    <i class="far fa-clock"></i>
-                                    <h6>Delivery</h6>
-                                    July, 2021
-                                 </div>
-                                 <div class="project_meta_item tranz">
-                                    <i class="fas fa-folder-open"></i>
-                                    <h6>Project Type</h6>
-                                    Cadastral Plan
-                                 </div>
-                                 <div class="project_meta_item tranz">
-                                    <i class="fas fa-map-marker-alt"></i>
-                                    <h6>Location</h6>
-                                    Karuna Road, Westlands, Nairobi
-                                 </div>
-                                 <div class="project_meta_item tranz"></div>
-                                 <div class="project_meta_item tranz"></div>
-                              </div>
-                              <div class="clearfix"></div>
-                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="#">More Info &rarr;</a></p>
                            </div>
                         </div>
                      </div>
