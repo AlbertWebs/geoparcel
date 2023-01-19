@@ -80,22 +80,22 @@
                                  <div class="project_meta_item tranz">
                                     <i class="fas fa-address-book"></i>
                                     <h6>Client</h6>
-                                    Local City Park
+                                    General Public
                                  </div>
                                  <div class="project_meta_item tranz">
                                     <i class="far fa-clock"></i>
                                     <h6>Delivery</h6>
-                                    August, 2021
+                                    August, 2022
                                  </div>
                                  <div class="project_meta_item tranz">
                                     <i class="fas fa-folder-open"></i>
                                     <h6>Project Type</h6>
-                                    Commercial Construction
+                                    Land Conveyancing
                                  </div>
                                  <div class="project_meta_item tranz">
                                     <i class="fas fa-map-marker-alt"></i>
                                     <h6>Location</h6>
-                                    Karuna Road, Westlands, Nairobi
+                                    Kenya
                                  </div>
                                  <div class="project_meta_item tranz"></div>
                                  <div class="project_meta_item tranz"></div>
@@ -105,6 +105,8 @@
                            </div>
                         </div>
                      </div>
+
+
                      <div class="item tmnf_column tmnf_column_6 ">
                         <div class="project_post tranz post-5652 tmnf_project type-tmnf_project status-publish has-post-thumbnail hentry project-category-public-utilities">
                            <div class="entryhead">
@@ -124,22 +126,66 @@
                                  <div class="project_meta_item tranz">
                                     <i class="fas fa-address-book"></i>
                                     <h6>Customer</h6>
-                                    Grand Junction
+                                    General Public
                                  </div>
                                  <div class="project_meta_item tranz">
                                     <i class="far fa-clock"></i>
                                     <h6>Delivery</h6>
-                                    October, 2021
+                                    October, 2022
                                  </div>
                                  <div class="project_meta_item tranz">
                                     <i class="fas fa-folder-open"></i>
                                     <h6>Project Type</h6>
-                                    Public Utilities
+                                    Topographic Survey
                                  </div>
                                  <div class="project_meta_item tranz">
                                     <i class="fas fa-map-marker-alt"></i>
                                     <h6>Location</h6>
-                                    Karuna Road, Westlands, Nairobi
+                                    Machakoc County
+                                 </div>
+                                 <div class="project_meta_item tranz"></div>
+                                 <div class="project_meta_item tranz"></div>
+                              </div>
+                              <div class="clearfix"></div>
+                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="#l">More Info &rarr;</a></p>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="item tmnf_column tmnf_column_6 ">
+                        <div class="project_post tranz post-5652 tmnf_project type-tmnf_project status-publish has-post-thumbnail hentry project-category-public-utilities">
+                           <div class="entryhead">
+                              <div class="imgwrap">
+                                <a href="#l"> <img width="600" height="450" src="{{asset('images/free-site-visit.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" srcset="{{asset('images/free-site-visit.jpg')}}" sizes="(max-width: 600px) 100vw, 600px" /> </a>
+                              </div>
+                              <p class="tmnf_meta project_meta tmnf_meta_categs tranz"> <span class="categs"><a href="{{url('/')}}"><span>&bull; </span>Public Utilities</a></span></p>
+                           </div>
+                           <div class="project_inn tmnf_shadow ghost tranz ">
+                              <h3 class="project-title"><a class="link link--forsure" href="#l">Site Visit</a></h3>
+                              <div class="tmnf_excerpt">
+                                 <p>
+                                    {{--  --}}
+                                 </p>
+                              </div>
+                              <div class="project_info tranz">
+                                 <div class="project_meta_item tranz">
+                                    <i class="fas fa-address-book"></i>
+                                    <h6>Customer</h6>
+                                    General Public
+                                 </div>
+                                 <div class="project_meta_item tranz">
+                                    <i class="far fa-clock"></i>
+                                    <h6>Date</h6>
+                                    October, 2022
+                                 </div>
+                                 <div class="project_meta_item tranz">
+                                    <i class="fas fa-folder-open"></i>
+                                    <h6>Project Type</h6>
+                                    Land For Sale
+                                 </div>
+                                 <div class="project_meta_item tranz">
+                                    <i class="fas fa-map-marker-alt"></i>
+                                    <h6>Location</h6>
+                                    Kikuyu, Kiambu County
                                  </div>
                                  <div class="project_meta_item tranz"></div>
                                  <div class="project_meta_item tranz"></div>
