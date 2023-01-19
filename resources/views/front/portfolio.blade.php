@@ -101,7 +101,7 @@
                                  <div class="project_meta_item tranz"></div>
                               </div>
                               <div class="clearfix"></div>
-                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="../work/park-aerial-survey/index.html">More Info &rarr;</a></p>
+                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="{{url('/')}}/products/conveyancing">More Info &rarr;</a></p>
                            </div>
                         </div>
                      </div>
@@ -147,7 +147,7 @@
                                  <div class="project_meta_item tranz"></div>
                               </div>
                               <div class="clearfix"></div>
-                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="#l">More Info &rarr;</a></p>
+                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="{{url('/')}}/products/topographic-survey">More Info &rarr;</a></p>
                            </div>
                         </div>
                      </div>
@@ -157,7 +157,7 @@
                               <div class="imgwrap">
                                 <a href="#l"> <img width="600" height="450" src="{{asset('images/free-site-visit.jpg')}}" class="tranz wp-post-image" alt="" decoding="async" loading="lazy" srcset="{{asset('images/free-site-visit.jpg')}}" sizes="(max-width: 600px) 100vw, 600px" /> </a>
                               </div>
-                              <p class="tmnf_meta project_meta tmnf_meta_categs tranz"> <span class="categs"><a href="{{url('/')}}"><span>&bull; </span>Public Utilities</a></span></p>
+                              <p class="tmnf_meta project_meta tmnf_meta_categs tranz"> <span class="categs"><a href="{{url('/')}}/products/topographic-survey"><span>&bull; </span>Public Utilities</a></span></p>
                            </div>
                            <div class="project_inn tmnf_shadow ghost tranz ">
                               <h3 class="project-title"><a class="link link--forsure" href="#l">Site Visit</a></h3>
@@ -191,7 +191,7 @@
                                  <div class="project_meta_item tranz"></div>
                               </div>
                               <div class="clearfix"></div>
-                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="#l">More Info &rarr;</a></p>
+                              <p class="tmnf_meta tmnf_meta_more tranz project_more tranz"> <a class="ribbon" href="{{url('/')}}/products/topographic-survey">More Info &rarr;</a></p>
                            </div>
                         </div>
                      </div>
